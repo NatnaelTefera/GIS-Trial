@@ -1,0 +1,430 @@
+﻿site_id,Latitude,Longitude,City Name,City and Road Name,Cluster,RSM_Base_City,Division,Distributor,Site Class,RAM_Base_City,Existing/Planned,Scope,Vendor,Rollout Phase Final,City Type,Clutter,Pop_per_Site,Population of the area,Tx_Dependency,State,Zone,Woreda,Town/Road Site Type,Last Achieved Milestone
+710047,6.298375,36.874674,Sawla,Sawla,Sawla,Sodo,South,Horn afrik communications and Trading PLC,Class D,Sodo,Planned,Colo,Nokia,PH3,Small City,Rural,17468,61037,7,SNNP,Gofa,Sawla town,Town,MS 11.2 TI Started
+406015,9.81616,38.5696,A3-1,Degem Hamiso to Ali Doro,Fiche Commando,Fiche,North West,Vanguard Communication Main dealer,Class E,Fiche,Planned,FTK,Huawei,PH1,A Road,Rural,15334,15334,1,Oromia,North Shewa (OR),Degem,Road,MS 11.3 TI Completed
+710070,6.468,36.5805,Laha,Leha,Leha,Sodo,South,Horn afrik communications and Trading PLC,Class D,Sodo,Planned,FTK,Nokia,PH3,Additional Town,Rural,37964,37964,1,SNNP,Gofa,Melekoza,Town,MS 9.2.3 Foundation Completed
+409128,9.028506,40.74763,K'ore,Kore (Chiro Zuriya),Chiro 1,Chiro,East 1,Modern Tech Technologies PLC,Class E,Chiro,Planned,FTK,Huawei,PH1,Rural,Rural,8120,8120,1,Oromia,West Hararge,Mesela,Road,MS 9.6 CW Completed
+407141,8.46647,39.45032,Bofa,Bofa,Adama Welenchiti,Adama,Central,Modern Tech Technologies PLC,Class E,Adama,Planned,FTK,Nokia,PH2,Village,Rural,20466,4219,1,Oromia,East Shewa,Boset,Town,MS 9.6 CW Completed
+710051,6.307962,36.886093,Sawla,Sawla,Sawla,Sodo,South,Horn afrik communications and Trading PLC,Class D,Sodo,Planned,Colo,Nokia,PH3,Small City,Rural,14483,61037,1,SNNP,Gofa,Sawla town,Town,MS 13.5 Site On Air
+405154,9.11962,37.0597,Bako,Baco,Baco,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH3,Small City,Sub Urban,16283,34088,20,Oromia,West Shewa,Bako Tibe,,MS 9.5.1 RFI Notification Received
+405170,9.11552,37.06648,Bako,Baco,Baco,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH3,Small City,Sub Urban,7828,34088,1,Oromia,West Shewa,Bako Tibe,,MS 4.3.3 Construction Permit Received
+405159,9.12139,37.0692,Bako,Baco,Baco,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH2,Small City,Sub Urban,2462,34088,1,Oromia,West Shewa,Bako Tibe,,MS 9.3.3 Tower Erection Completed
+405021,9.01183,37.4497,Gedo,Gedo,Ejaji,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH2,Additional Town,Sub Urban,19601,24651,13,Oromia,West Shewa,Cheliya,,MS 9.1 CW Started
+402048,9.0394,36.868,Sire(Sibu Sire),Sire,Sire Ano,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH1,Additional Town,Sub Urban,,22219,,Oromia,East Wellega,Sibu Sire,,MS 9.6 CW Completed
+402090,9.039283,36.882336,Sire(Sibu Sire),Bikila,Sire Ano,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH1,Additional Town,Sub Urban,,22219,,Oromia,East Wellega,Sibu Sire,,MS 9.6 CW Completed
+143017,9.00076,38.66879,Addis Ababa,Addis Ababa,Kara 1,Addis Ababa WA2,West Addis,Modern Tech Technologies PLC,Class B,Addis Ababa WA2,Planned,FTK,Nokia,PH3,Large City,Urban,13094,5746361,1,Oromia,Finfine Special,Sebeta Hawas,Town,MS 1.1 SAR Visit Completed
+147041,9.035443,38.877228,Addis Ababa,Addis Ababa,Ayat Tafo,Addis Ababa EA1,East Addis,Leapfrog Software Technology Africa PLC,Class C,Addis Ababa EA1,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,
+144091,8.99954,38.83575,Addis Ababa,Addis Ababa,Goro Jacros,Addis Ababa EA3,East Addis,Blue spark Technology,Class B,Addis Ababa EA3,Planned,FTK_Relo,Nokia,PH0,Large City,Urban,9774,5746361,1,Addis Ababa,Lemi Kura,09,Town,MS 1.1 SAR Visit Completed
+301049,12.76848,37.59302,,Amba Giorgis,Amba Giorgis,Gondar,North West,Vanguard Communication Main dealer,Class D,Gondar,Planned,Colo,Huawei,PH1,,Sub Urban,,,,,,,,MS 1.9.7.3 LLD Validated by Colo Partners
+301063,13.133585,37.8930473,,Debark,Debark,Gondar,North West,Vanguard Communication Main dealer,Class D,Gondar,Planned,FTK,Huawei,PH0,,Sub Urban,,,,,,,,MS 9.6 CW Completed
+301019,13.1454115,37.8999214,,Debark,Debark,Gondar,North West,Vanguard Communication Main dealer,Class D,Gondar,Planned,FTK,Huawei,PH0,,Sub Urban,,,,,,,,MS 4.3.3 Construction Permit Received
+418022,8.55881,34.785,DembiDolo,Dembi Dolo,Denbi Dolo 1,Nekemte,West,Reserved to West Distributor,Class D,Nekemte,Planned,Colo,Huawei,,,Deep Rural,,,,,,,,
+405023,8.97243,37.5418,,Babich,Babich,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH1,,,,,,,,,,
+144020,9.02228,38.86428,Addis Ababa,Addis Ababa,Meri Ayat 1,Addis Ababa EA1,East Addis,Leapfrog Software Technology Africa PLC,Class B,Addis Ababa EA1,Planned,FTK,Nokia,PH3,Large City,Dense Urban,6723,5746361,1,Addis Ababa,Lemi Kura,13,Town,MS 1.1 SAR Visit Completed
+417290,7.345914,38.673381,ArsiNegele,Arsi Negele,,,,,Class C,,Planned,FTK,Nokia,PH2,,,,,,,,,,MS 1.1 SAR Visit Completed
+406016,9.95609,38.30121,A3-2,Commodo to Abay River,Gohatsion,Fiche,North West,Vanguard Communication Main dealer,Class E,Fiche,Planned,FTK,Huawei,PH1,A Road,Rural,33191,33191,4,Oromia,North Shewa (OR),Wara Jarso,Road,MS 11.3 TI Completed
+406012,9.81342,38.62886,Hamibiso Town,Hamibiso,Fiche Commando,Fiche,North West,Vanguard Communication Main dealer,Class D,Fiche,Planned,FTK,Huawei,PH1,Additional Town,Sub Urban,19560,8756,1,Oromia,North Shewa (OR),Degem,Town,MS 11.2 TI Started
+406097,9.77772,38.63849,Tunano Abidi,Tunano Abidi,Fiche Commando,Fiche,North West,Vanguard Communication Main dealer,Class F,Fiche,Planned,Colo,Huawei,PH1,Rural,Rural,25023,25023,8,Oromia,North Shewa (OR),Degem,Road,MS 1.8 TSSR Final Validation by Safaricom
+409033,8.83035,40.42497,Hardim,Hardim,Gelemso Wachu,Chiro,East 1,Modern Tech Technologies PLC,Class E,Chiro,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,22863,1567,1,Oromia,West Hararge,Goba Koricha,,MS 2.5 SLA Signed by Safaricom
+401016,9.16315,35.8401,Gimbi,Gimbi,Gimbi,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,Small City,Sub Urban,10674,40415,32,Oromia,West Wellega,Gimbi town,,MS 9.6 CW Completed
+414012,5.8795,38.9909,Adola,Adola,Adola,Hawassa,South,Modern Tech Technologies PLC,Class C,Bule Hora,Planned,Colo,Nokia,PH3,Small City,Sub Urban,34974,134343,1,Oromia,Guji,Adola town,Town,MS 9.5.1 RFI Notification Received
+414051,5.33829,39.58059,Negele Borena,Negele Borena,Negele,Hawassa,South,Modern Tech Technologies PLC,Class C,Bule Hora,Planned,Colo,Nokia,PH3,Small City,Sub Urban,13762,100453,7,Oromia,Guji,Negele town,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+405045,9.42558,38.3402,Rejji,Reji,Inchini,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,Colo,Huawei,PH2,Additional Town,Sub Urban,17197,43232,1,Oromia,West Shewa,Adda Berga,,MS 1.9.7.2 LLD Submitted to Colo Partners
+309006,10.996111,36.921557,A3-6,Injibara,Injebara 1,Awi,North West,Vanguard Communication Main dealer,Class E,Awi,Planned,Colo,Huawei,PH2,Highways and Major roads,Rural,5596,5596,2,Amhara,Awi,Injibara town,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+310035,10.3053551,39.9875183,Senbete Town,Senbete ,Ataye,Shewarobit,North East,Maleda Com Trading PLC,Class D,Shewarobit,Planned,Colo,Huawei,PH1,Additional Town,Sub Urban,5883,11909,1,Amhara,Oromia,Jilye Tumuga,Town,MS 13.5 Site On Air
+149030,9.03252,38.75452,Addis Ababa,Addis Ababa,Arat Killo,Addis Ababa EA2,East Addis,Leapfrog Software Technology Africa PLC,Class B,Addis Ababa EA2,Planned,FTK,Nokia,PH2,Large City,Dense Urban,4023,5746361,1,Addis Ababa,Arada,10,Town,MS 9.2.2 Foundation Started
+304048,10.6567,39.1607,Ligwama,Liguama,Genete,Dessie,North East,Maleda Com Trading PLC,Class D,Dessie,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,19071,32278,6,Amhara,South Wello,Kelela,,MS 9.2.2 Foundation Started
+401010,9.37351,35.5971,Bila(Boji),Bogi,Bogi,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH1,Additional Town,Sub Urban,,21618,,Oromia,West Wellega,Boji Dirmeji,,MS 3.1 Structural Analysis / Soil Test Received
+401056,9.35775,35.604,Bila(Boji),Bogi,Bogi,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH2,Additional Town,Sub Urban,4248,21618,1,Oromia,West Wellega,Boji Dirmeji,,MS 9.1 CW Started
+401008,9.34206,35.57699,Burka Boji,Bogi to Muklemi,Bogi,Nekemte,West,Blue spark Technology,Class F,Nekemte,Planned,FTK,Huawei,PH3,Additional Town,Rural,16988,467,11,Oromia,West Wellega,Boji Dirmeji,,MS 9.2.2 Foundation Started
+401042,9.69015,35.26,Toba(Menesibu),Kiltu Kara,Kiltu Kara,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,,13719,,Oromia,West Wellega,Kiltu Kara,,MS 9.2.3 Foundation Completed
+401037,9.60133,35.3707,Jiru,Were Jiru ,Kiltu Kara,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,,8391,,Oromia,West Wellega,Leta Sibu,,MS 9.6 CW Completed
+401030,9.78277,34.9221,Benguwa,Bengwa,Mendi,Nekemte,West,Blue spark Technology,Class F,Nekemte,Planned,FTK,Huawei,PH3,,Rural,,,,,,,,MS 9.2.3 Foundation Completed
+401080,9.80049,35.1059,Mendi,Mendi,Mendi,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,Small City,Sub Urban,16614,22747,11,Oromia,West Wellega,Mendi town,,MS 9.6 CW Completed
+401035,9.55651,35.4369,B40-2,Kote Ginasi,Nejo,Nekemte,West,Blue spark Technology,Class F,Nekemte,Planned,FTK,Huawei,PH3,Highways and Major roads,Rural,,18808,,Oromia,West Wellega,Nejo,,MS 9.5.1 RFI Notification Received
+401039,9.52534,35.496,Nedjo,Nejo,Nejo,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,Small City,Sub Urban,16493,26684,2,Oromia,West Wellega,Nejo town,,MS 1.3 SAR Received from Vendor
+401083,9.50665,35.503,Nedjo,Nejo,Nejo,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,Small City,Sub Urban,14551,26684,1,Oromia,West Wellega,Nejo town,,MS 9.6 CW Completed
+401038,9.50129,35.5096,Nedjo,Nejo,Nejo,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,Small City,Sub Urban,4612,26684,7,Oromia,West Wellega,Nejo town,,MS 9.5.1 RFI Notification Received
+402004,9.04317,36.2526,,Arjo Gudetu,Nekemte Darge,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,,Sub Urban,,,,Oromia,East Wellega,Diga,,
+402059,9.02763,36.5779,A4-5,Negasa,Nekemte Darge,Nekemte,West,Blue spark Technology,Class F,Nekemte,Planned,FTK,Huawei,PH1,Highways and Major roads,Rural,,13231,,Oromia,East Wellega,Guto Gida,,MS 9.6 CW Completed
+402084,8.81211,36.4711,B42-1,Hine,Arjo,Nekemte,West,Blue spark Technology,Class E,Nekemte,Planned,FTK,Huawei,PH2,Highways and Major roads,Rural,,6083,,Oromia,East Wellega,Jimma Arjo,,MS 9.6 CW Completed
+301055,12.547406,37.066163,,Aykel,Aykel,Metema,North West,MyHello Communication,Class D,Metema,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,MS 9.6 CW Completed
+302021,11.61231,38.06253,MekaneYesus,Mekane Yesus,Mekane Yesus,South Gondar,North West,MyHello Communication,Class D,South Gondar,Planned,FTK,Huawei,PH1,Small City,Urban,15723,35224,3,Amhara,South Gondar,East Esite,Town,MS 11.3 TI Completed
+302119,11.612548,38.070595,MekaneYesus,Mekane Yesus,Mekane Yesus,South Gondar,North West,MyHello Communication,Class D,South Gondar,Planned,Colo,Huawei,PH1,Small City,Sub Urban,16745,35224,1,Amhara,South Gondar,East Esite,Town,MS 11.3 TI Completed
+104060,13.488319,39.469456,Mekele,Mekele,Mekele Kedamay Weyane Axum,Mekele South,North,Desta Telecom PLC,Class B,Mekele South,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,
+506009,6.51173,43.4891,Denan,Denan,Gode 2,Gode,East 2,Mumin General Trading,Class E,Gode,Planned,Colo,Huawei,PH3,Additional Town,Sub Urban,10549,8378,2,Somali,Shabelle,Danan,Town,MS 1.9.7.2 LLD Submitted to Colo Partners
+301059,13.4498,38.0594,AdiArkay,Adi Arkay,Debark,Gondar,North West,Vanguard Communication Main dealer,Class D,Gondar,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,MS 4.3.3 Construction Permit Received
+509045,4.195439,42.038889,DOLO,Dolo Ado,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class D,Gode,Planned,FTK,Nokia,PH3,Small City,Rural,2900,17769,1,Somali,Liban,Dolo Ado,Town,MS 9.5.1 RFI Notification Received
+509002,4.180736,42.056305,DOLO,Dolo Ado,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class D,Gode,Planned,FTK,Nokia,PH3,Small City,Rural,3571,17769,2,Somali,Liban,Dolo Ado,Town,MS 9.2.2 Foundation Started
+718001,6.301254,36.624108,Basketo,Balma,Leha,Sodo,South,Horn afrik communications and Trading PLC,Class D,Sodo,Planned,FTK,Nokia,PH3,Additional Town,Rural,55781,55781,1,SNNP,Basketo,Basketo SP Woreda,Town,MS 9.6 CW Completed
+404088,8.08947,36.95254,Limu Genet,Limu Genet,Limu Genet,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,52955,83506,4,Oromia,Jimma,Limu Kosa,Town,MS 9.6 CW Completed
+710066,6.33705,36.6039,Balma,Dekochere Dekosuba,Leha,Sodo,South,Horn afrik communications and Trading PLC,Class D,Sodo,Planned,FTK,Nokia,PH3,Additional Town,Rural,17299,17299,4,SNNP,Basketo,Basketo SP Woreda,Road,MS 9.6 CW Completed
+710089,6.44114,36.6376,Malokoza,Mayzolaysha,Leha,Sodo,South,Horn afrik communications and Trading PLC,Class D,Sodo,Planned,FTK,Nokia,PH3,Additional Town,Rural,24477,24477,2,SNNP,Gofa,Melekoza,Town,MS 9.1 CW Started
+411089,7.1403,40.7038,Ginir,Ginir,Ginir,Bale,Central,Modern Tech Technologies PLC,Class C,Bale,Planned,Colo,Nokia,PH3,Small City,Sub Urban,11526,92072,1,Oromia,East Bale,Ginir town,Town,MS 11.2 TI Started
+411102,7.141825,40.718064,Ginir,Ginir,Ginir,Bale,Central,Modern Tech Technologies PLC,Class C,Bale,Planned,FTK,Nokia,PH3,Small City,Urban,21168,92072,1,Oromia,East Bale,Ginir town,Town,MS 13.5 Site On Air
+411125,7.13865,40.71097,Ginir,Ginir,Ginir,Bale,Central,Modern Tech Technologies PLC,Class C,Bale,Planned,FTK,Nokia,PH3,Small City,Urban,47099,92072,4,Oromia,East Bale,Ginir town,Town,MS 13.5 Site On Air
+407153,8.90057,39.2035,Bolo Doyo,Gorotegere,Chefe Donsa,Adama,Central,Phoenix Telecom MAIN,Class E,Bishoftu,Planned,FTK,Nokia,PH3,Additional Town,Rural,46601,46601,2,Oromia,East Shewa,Gimbichu,Road,MS 9.3.3 Tower Erection Completed
+506019,5.76765,43.8502,FUC-C104-1,"Karinka 2, Gode to Kelafo",Kelafo,Gode,East 2,Mumin General Trading,Class F,Gode,Planned,FTK,Huawei,PH3,Highways and Major roads,Deep Rural,1052,6875,4,Somali,Shabelle,Gode,Road,MS 9.2.2 Foundation Started
+101008,14.452066,37.988649,E27-1a,Adi Hagerey,Shiraro,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH3,Highways and Major roads,Sub Urban,6394,19695,3,Tigray,North Western,Adi Hageray,Town,MS 9.6 CW Completed
+102090,14.21249,38.95512,A2-12a,Mariyam Shewit,Enticho,Shire,North,Passion Technologies One Member PLC,Class F,Shire,Planned,FTK,Huawei,PH3,Highways and Major roads,Deep Rural,4044,3494,1,Tigray,Central,Adwa,Road,MS 4.3.3 Construction Permit Received
+101011,13.58472,38.141897,B30-4b,May Tsebri,Endabaguna,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH3,Highways and Major roads,Sub Urban,11358,15761,2,Tigray,North Western,May Tsebri town,Town,MS 4.3.3 Construction Permit Received
+102047,14.2794,39.15054,A2-12a,Inticho ,Enticho,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH3,Highways and Major roads,Sub Urban,12887,11568,3,Tigray,Central,Enticho town,Town,MS 9.6 CW Completed
+202001,13.354,39.75426,Shehet,Abala,Elidar,Semera,Afar,Afartech IT and Communication,Class D,Semera,Planned,FTK,Huawei,PH1,,Urban,,,,,,,,MS 2.3 SLA and Document Received From Vendor
+101059,13.561982,38.142824,B30-4b,May Tsebri,Endabaguna,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH3,Highways and Major roads,Deep Rural,11104,14817,1,Tigray,North Western,Tselemti,Town,MS 4.3.3 Construction Permit Received
+104139,13.365238,39.706359,UNAD-21,Mekele to Abala,Adi Gudom,Mekele South,North,Desta Telecom PLC,Class F,Mekele South,Planned,Colo,Huawei,PH2,,Rural,,,,,,,,
+204012,12.14349,39.980685,Gulina,Keliwan ,Mile,Semera,Afar,Afartech IT and Communication,Class F,Semera,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+509004,4.174322,42.050643,DOLO,Dolo Ado,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class D,Gode,Planned,FTK,Nokia,PH3,Small City,Rural,1324,17769,1,Somali,Liban,Dolo Ado,Town,MS 9.5.1 RFI Notification Received
+702043,7.33743,37.65157,Anso,Ansho,Doyo Gena,Hossana,South,Modern Tech Technologies PLC,Class D,Hossana,Planned,FTK,Nokia,PH3,Additional Town,Rural,57120,57120,2,SNNP,Hadiya,Duna,Town,MS 13.5 Site On Air
+502103,9.355477662,42.78715453,Jijiga,Jijiga,Jigjiga Dude Hida 1,Jijiga,East 2,Kimiya Telecom Company,Class B,Jijiga,Planned,FTK,Huawei,PH2,Large City,Urban,45676,323033,1,Somali,Fafan,Jigjiga town,Town,
+502109,9.343757555,42.82020251,Jijiga,Jijiga,Jigjiga Garabcase,Jijiga,East 2,Kimiya Telecom Company,Class C,Jijiga,Planned,FTK,Huawei,PH2,Large City,Sub Urban,20555,323033,1,Somali,Fafan,Jigjiga town,Town,MS 4.3.3 Construction Permit Received
+712007,5.83707,37.895,Amaro kelle,Kele,Kele,Arbaminch,South,Horn afrik communications and Trading PLC,Class D,Arbaminch,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,11383,0,1,SNNP,Amaro,Amaro,Town,MS 9.6 CW Completed
+501046,11.05083,42.68123,C100--1,Harewa - Ethio Djibouti Border,Shinle,Dire Dawa,East 1,IHSAN COMMUNICATION,Class F,Dire Dawa,Planned,FTK,Huawei,PH3,,Rural,,,,,,,,MS 2.3 SLA and Document Received From Vendor
+505005,7.40912,43.9227,Shekosh,Shegosh,Kebri Dehar,Gode,East 2,Mumin General Trading,Class E,Gode,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,6914,5197,1,Somali,Korahe,Shaygosh,Town,MS 9.5.1 RFI Notification Received
+142100,8.941328,38.682839,Addis Ababa,Addis Ababa,Furi Welete 1,Addis Ababa WA1,West Addis,Fibath trading,CLASS B,Addis Ababa WA1,Planned,FTK,Nokia,PH3,Large City,URBAN,5321,0,1,Addis Ababa,Nifassilk Lafto,01,Town,MS 1.1 SAR Visit Completed
+142105,8.935432,38.72957,Addis Ababa,Addis Ababa,Garment,Addis Ababa WA4,West Addis,Tiyn Trading Company,CLASS B,Addis Ababa WA4,Planned,FTK,Nokia,PH3,Large City,Dense Urban,17596,5746361,1,Addis Ababa,Nifassilk Lafto,01,Town,MS 1.5 TSS Visit Completed
+144160,9.022291,38.879798,Addis Ababa,Addis Ababa,Ayat Tafo 2,Addis Ababa EA1,East Addis,Leapfrog Software Technology Africa PLC,Class B,Addis Ababa EA1,Planned,FTK,Nokia,PH2,Large City,Urban,,5746361,,Addis Ababa,Region 14,Yeka,,MS 9.6 CW Completed
+407226,8.500207,39.28018,Adama,Adama,Adama Tikur Abay,Adama,Central,Modern Tech Technologies PLC,CLASS D,Adama,Planned,FTK,Nokia,PH3,Large City,Urban,6210,532189,1,Oromia,East Shewa,Adama town,Town,MS 9.2.2 Foundation Started
+408175,8.309242,39.323623,Dera,Dera,Dera,Asela,Central,Modern Tech Technologies PLC,CLASS D,Asela,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,3776,0,1,Oromia,Arsi,Dodota,Road,MS 13.4 Site Integration Completed
+508045,6.2498,42.6258,Abakuraw,Abakoro,El Kere,Gode,East 2,Horn afrik communications and Trading PLC,Class F,Gode,Planned,FTK,Huawei,PH3,Additional Town,Deep Rural,2591,1364,166(somali ring),Somali,Afder,West Imi,Road,MS 9.2.2 Foundation Started
+410184,9.50344,42.60677,Chinaksen,Chinaksen,Chinaksen,Jijiga,East 2,Kimiya Telecom Company,Class D,Jijiga,Planned,Colo,Huawei,PH3,Additional Town,Rural,16477,29738,1,Oromia,East Hararge,Chinaksen,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+410261,9.178796,42.39328,Koloji,Koloji,Babile,Harer,East 1,Mumin General Trading,Class F,Harer,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,  -    ,2360,0,Oromia,East Hararge,Babile (OR),Town,MS 9.5.1 RFI Notification Received
+143096,9.021139,38.689305,Addis Ababa,Addis Ababa,Keranyo,Addis Ababa WA2,West Addis,Fibath trading,Class B,Addis Ababa WA2,Planned,FTK,Nokia,PH3,Large City,URBAN,  -    ,0,0,Addis Ababa,Kolfe Keranyo,08,Town,MS 3.1 Structural Analysis / Soil Test Received
+418035,8.53015,34.8047,DembiDolo,"Dembi Dolo
+",Denbi Dolo 1,Nekemte,West,Reserved to West Distributor,Class C,Nekemte,Planned,Colo,ZTE,PH3,,Sub Urban,,,,,,,,MS 1.9.7.2 LLD Submitted to Colo Partners
+418010,8.52559,34.7985,DembiDolo,"Dembi Dolo
+",Denbi Dolo 1,Nekemte,West,Reserved to West Distributor,Class C,Nekemte,Planned,FTK,ZTE,PH3,,Sub Urban,,,,,,,,MS 4.3.3 Construction Permit Received
+401156,9.790793,35.098903,Mendi,Mendi,Mendi,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,Small City,Sub Urban,  -    ,0,0,Oromia,West Wellega,Mendi town,,MS 9.6 CW Completed
+101022,13.95213,38.45831,Zana Town,Zana,Wukro Maray,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,  -    ,0,0,Tigray,North Western,Zana,,MS 2.3 SLA and Document Received From Vendor
+103006,13.876956,39.740317,Atsbi,Atsbi Endasilassie,Wukro,Mekele North,North,Passion Technologies One Member PLC,Class D,Mekele North,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,  -    ,0,0,Tigray,Eastern,Atsbi,,MS 9.6 CW Completed
+702061,7.445603,38.01803,Jama,Jama,Bonosha,Sodo,South,Modern Tech Technologies PLC,Class D,Sodo,Planned,FTK,Nokia,PH3,Additional Town,Rural,87994,87994,1,SNNP,Hadiya,Shashogo,,MS 11.3 TI Completed
+418034,8.855048,35.098898,Chanka,Sadi to Alem Teferi,Sadi,Nekemte,West,Reserved to West Distributor,Class E,Nekemte,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,MS 9.1 CW Started
+404225,7.837379,36.426732,Boto,Boto,Beshasha,Jimma,West,Blue spark Technology,Class E,Jimma,Planned,FTK,Nokia,PH3,Additional Town,RURAL,  -    ,0,0,Oromia,Jimma,Goma,,MS 9.3.3 Tower Erection Completed
+404226,7.998819,36.447547,Kuda Kunfi,Kuda Kunfi,Toba,Jimma,West,Blue spark Technology,Class E,Jimma,Planned,FTK,Nokia,PH3,Additional Town,RURAL,  -    ,0,0,Oromia,Jimma,Gumay,,MS 11.3 TI Completed
+704144,6.491317,39.000103,Daela_Mount Meeme,Daela Mount Meeme,Chebe,Hawassa,South,Modern Tech Technologies PLC,Class F,Hawassa,Planned,FTK,Nokia,PH3,,RURAL,,,,,,,,MS 9.1 CW Started
+404108,7.98404,36.2133,Gatera,Gatira,Toba,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,FTK,Nokia,PH3,Additional Town,Rural,74586,74586,3,Oromia,Jimma,Setema,,MS 11.3 TI Completed
+701056,7.847936,37.83451,Dinkula,Dinkula,Lera,Hossana,South,Blue spark Technology,Class D,Butajira,Planned,FTK,Nokia,PH3,Additional Town,Rural,33560,33560,5,SNNP,Guraghe,Endiguagn,,MS 12.5 NMS Integration Completed
+405047,9.31573,38.2723,Shino,Shino,Inchini,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,26597,10749,2,Oromia,West Shewa,Meta Robi,,MS 9.1 CW Started
+405210,8.994294,37.331203,Lijaji,Ejaji,Ejaji,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,Colo,Huawei,PH3,Additional Town,Sub Urban,11824,34789,2,Oromia,West Shewa,Illu Galan,,MS 1.8 TSSR Final Validation by Safaricom
+509008,4.54026,41.538822,Bokolmanyo,Bokolmay,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class D,Gode,Planned,FTK,Nokia,PH1,Additional Town,RURAL,  -    ,0,0,Somali,Liban,Bokolmayo,,MS 9.2.2 Foundation Started
+509009,4.51349,41.712637,Melkadida,Melkadida Refugee Camp,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class D,Gode,Planned,FTK,Nokia,PH2,Additional Town,RURAL,  -    ,0,0,Somali,Liban,Bokolmayo,,MS 9.2.2 Foundation Started
+509047,4.300337,41.909771,Bur Amino,Buramino Refugee Camp,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class D,Gode,Planned,FTK,Nokia,PH1,Additional Town,RURAL,  -    ,0,0,Somali,Liban,Dolo Ado,,MS 9.2.2 Foundation Started
+509048,4.300648,41.930037,Bur Amino,Buramino Refugee Camp,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class E,Gode,Planned,FTK,Nokia,PH3,Additional Town,RURAL,  -    ,0,0,Somali,Liban,Dolo Ado,,MS 9.2.2 Foundation Started
+509049,4.369032,41.866472,Hilaweyn,Hilaweyn Refugee Camp,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class D,Gode,Planned,FTK,Nokia,PH2,Additional Town,RURAL,  -    ,0,0,Somali,Liban,Dolo Ado,,MS 9.2.2 Foundation Started
+509050,4.362058,41.85658,Hilaweyn,Hilaweyn Refugee Camp,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class D,Gode,Planned,FTK,Nokia,PH2,Additional Town,RURAL,  -    ,0,0,Somali,Liban,Dolo Ado,,MS 9.2.2 Foundation Started
+509053,4.476576,41.739881,Kobe,Kobe Refugee Camp,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class F,Gode,Planned,FTK,Nokia,PH3,Additional Town,RURAL,  -    ,0,0,Somali,Liban,Bokolmayo,,MS 9.2.2 Foundation Started
+708007,7.741874,35.476674,,Masha,Masha,Bedele,West,Horn afrik communications and Trading PLC,Class D,Bedele,Planned,,,,,,,,,,,,,
+509054,4.526573,41.724829,Melkadida,Melkadida Refugee Camp,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class D,Gode,Planned,FTK,Nokia,PH3,Additional Town,RURAL,  -    ,0,0,Somali,Liban,Bokolmayo,,MS 9.2.2 Foundation Started
+405216,9.44892,38.34225,Muger,Reji,Inchini,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,  -    ,0,0,Oromia,West Shewa,Adda Berga,,MS 9.6 CW Completed
+101025,14.045667,38.031129,Ketema Hibret,Idagahibret,Endabaguna,Shire,North,Passion Technologies One Member PLC,Class F,Shire,Planned,FTK,Huawei,PH2,Additional Town,Sub Urban,  -    ,0,0,Tigray,North Western,Asgede,,MS 9.5.1 RFI Notification Received
+710146,6.082808,36.897469,UNSO-98,Beto,Beto,Sodo,South,Horn afrik communications and Trading PLC,Class F,Sodo,Planned,FTK,Nokia,PH3,C Road,RURAL,,,,SNNP,Uba Debre Tsehay,Gofa,,MS 4.3.3 Construction Permit Received
+710147,6.168563,36.866589,UNSO-98,Oyida,Beto,Sodo,South,Horn afrik communications and Trading PLC,Class F,Sodo,Planned,FTK,Nokia,PH3,C Road,RURAL,,,,SNNP,O'yida,Gofa,,MS 12.5 NMS Integration Completed
+102016,14.040404,39.068645,Edaga Aby,Idaga Arbi/ Endaba Tsahma,Adwa,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH2,Additional Town,Sub Urban,,,,Tigray,Central Tigray,Wereilehi,,MS 4.3.3 Construction Permit Received
+418083,8.550793,34.839396,DembiDolo,Dembi Dolo,Denbi Dolo 1,Nekemte,West,Reserved to West Distributor,Class E,Nekemte,Planned,Colo,ZTE,PH3,,Sub Urban,,,,,,,,MS 1.8 TSSR Final Validation by Safaricom
+414126,5.39999,38.27434,Finchawa,Finchawa,Fichawa,Hawassa,South,Girma Gifawossen Trading,Class D,Bule Hora,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,,,,Oromia,West Guji,Dugda Dawa,,MS 9.3.2 Tower Erection Started
+710025,6.055368,36.886216,UNSO-98,Beto,Beto,Sodo,South,Horn afrik communications and Trading PLC,Class D,Sodo,Planned,FTK,Nokia,PH3,C Road,Rural,,19495,,SNNP,Gofa,Uba Debre Tsehay,,MS 9.6 CW Completed
+710114,6.070055,36.902005,Beto,Beto,Beto,Sodo,South,Horn afrik communications and Trading PLC,Class E,Sodo,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,,,,SNNP,Gofa,Uba Debre Tsehay,,MS 9.6 CW Completed
+706019,6.7526,37.3373,Kindo Halato,Kindo Halala,Kindo Halale,Sodo,South,Horn afrik communications and Trading PLC,Class D,Sodo,Planned,FTK,Nokia,PH_SA,Additional Town,Rural,,73700,,SNNP,Wolayita,Kindo Daddaye,,
+408144,8.2521,40.13425,Chancho / Jololcha,Gololcha/ Debre Selam,Gololcha,Asela,Central,Modern Tech Technologies PLC,Class D,Asela,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,,,,Oromia,Arsi,Golocha,,MS 9.6 CW Completed
+418008,8.92594,35.0489,Kake,Kake,Gachi,Nekemte,West,Reserved to West Distributor,Class D,Nekemte,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,MS 1.3 SAR Received from Vendor
+144161,9.00816,38.879796,,Addis Ababa,Meri Ayat 2,Addis Ababa EA1,East Addis,Leapfrog Software Technology Africa PLC,Class C,Addis Ababa EA1,Planned,FTK,Nokia,PH3,,Urban,,,,Addis Ababa,Region 14,Lemi Kura,,MS 1.3 SAR Received from Vendor
+603041,10.4662,34.5268,C40,Kumruk to Homosha,Asosa 2,Nekemte,West,Blue spark Technology,Class F,Asosa,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,
+603045,10.5584,34.4358,C40,Kumruk to Homosha,Asosa 1,Nekemte,West,Blue spark Technology,Class F,Asosa,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,
+603040,10.2693,34.6241,C40,Homosha to Asosa,Asosa 2,Nekemte,West,Blue spark Technology,Class F,Asosa,Planned,FTK,Huawei,PH3,Highways and Major roads,Deep Rural,,1592,,Benishangul Gumz,Assosa,Homosha,,MS 9.5.1 RFI Notification Received
+101082,14.121689,38.098569,,Kisad Gaba,Endabaguna,Shire,North,Passion Technologies One Member PLC,Class F,Shire,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,MS 9.2.2 Foundation Started
+103033,13.867793,39.737277,Atsbi,Atsbi Endasilassie,Wukro,Mekele North,North,Passion Technologies One Member PLC,Class D,Mekele North,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,MS 9.5.1 RFI Notification Received
+411070,7.10487,39.7782,Dinsho,Dinsho,Robe Meda Welabu,Bale,Central,Modern Tech Technologies PLC,Class F,Bale,Planned,FTK,Nokia,PH3,,RURAL,,,,,,,,MS 9.1 CW Started
+309034,10.73948,36.725952,,Lemma,Azena,Awi,North West,Vanguard Communication Main dealer,Class F,Awi,Planned,FTK,Huawei,PH0,,Sub Urban,,,,,,,,MS 4.3.3 Construction Permit Received
+418063,8.86399,35.0739,Chanka,Sadi,Sadi,Nekemte,West,Reserved to West Distributor,Class D,Nekemte,Planned,Colo,Huawei,PH2,,Deep Rural,,,,,,,,
+102020,14.490336,39.173204,Gerihu Sernay Town,Gerihu Senay,Enticho,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,
+104209,12.422699,39.677697,,Karsole,Chercher,Mekele South,North,Desta Telecom PLC,Class F,Mekele South,Planned,FTK,Huawei,PH1,,Deep Rural,,,,,,,,
+708004,7.74698,35.47537,,Masha,Masha,Bedele,West,Horn afrik communications and Trading PLC,Class D,Bedele,Planned,,,,,,,,,,,,,
+410037,9.02666,41.88255,,Dogu,Dogu,Harer,East 1,IHSAN COMMUNICATION,Class D,Harer,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,
+103019,14.399329,39.382493,B20,Fatsi,Fatsi,Mekele North,North,Passion Technologies One Member PLC,Class D,Mekele North,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+102019,13.28956,38.99473,Yechila,Yechila/ Abergele,Abiyi Adi,Mekele South,North,Desta Telecom PLC,Class D,Mekele South,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,
+103044,14.524157,39.385317,,Zala Anbesa,Fatsi,Mekele North,North,Passion Technologies One Member PLC,Class D,Mekele North,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,
+409188,8.822423,40.54584,,Gelemso,Gelemso,Chiro,East 1,Modern Tech Technologies PLC,Class D,Chiro,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,
+410026,8.65494,41.84758,Huse,Huse,Dogu,Harer,East 1,IHSAN COMMUNICATION,Class D,Harer,Planned,FTK,Huawei,PH2,,Deep Rural,,,,,,,,
+101013,14.125137,37.881122,Ketema Mayhanis(UNAD),May Hanse,Endabaguna,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,
+121040,8.259988,34.27640557,,Tefam/ Terkidi,Gambela 2,Bedele,West,Blue spark Technology,Class F,Gambella,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.3 SAR Received from Vendor
+202036,13.257967,40.003268,,Erepti,Elidar,Semera,Afar,Afartech IT and Communication,Class F,Semera,Planned,FTK,Huawei,PH2,,Deep Rural,,,,,,,,
+418011,8.52159,34.8079,DembiDolo,Dembi Dolo,Denbi Dolo 1,Nekemte,West,Reserved to West Distributor,Class C,Nekemte,Planned,FTK,ZTE,PH3,,Sub Urban,,,,,,,,
+418016,8.73217,34.9956,Mecciara,Mecciara,Denbi Dolo 1,Nekemte,West,Reserved to West Distributor,Class D,Nekemte,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,
+418020,8.91632,35.3545,Kelo(Dale Lalo),Lalo Kile,Lalo Kile,Nekemte,West,Reserved to West Distributor,Class D,Nekemte,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,
+401044,8.954698,35.45117,,Yubdo,Ayira,Nekemte,West,Blue spark Technology,Class E,Nekemte,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+401029,9.16807,35.6845,Inango,Inango,Bogi,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH1,,Rural,,,,,,,,
+402119,9.02924,36.87501,Sire(Sibu Sire),Sire,Sire Ano,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,,Rural,,,,,,,,MS 9.6 CW Completed
+411113,7.12196,40.0163,Robe Town,Bale Robe,Robe Meda Welabu,Bale,Central,Modern Tech Technologies PLC,Class C,Bale,Planned,FTK,Nokia,PH3,,Rural,,,,,,,,
+411040,7.106564,39.985149,Robe Town,Bale Robe,Robe Wako Gutu,Bale,Central,Modern Tech Technologies PLC,Class D,Bale,Planned,FTK,Nokia,PH3,,Urban,,,,,,,,MS 9.1 CW Started
+411051,7.239997,40.069841,Sinana,Alage,Robe Meda Welabu,Bale,Central,Modern Tech Technologies PLC,Class E,Bale,Planned,FTK,Nokia,PH_Demo,,Sub Urban,,,,,,,,MS 1.8 TSSR Final Validation by Safaricom
+509062,3.972135,41.854654,Suufka,Suftu,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class D,Gode,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,
+151100,9.614423,41.809647,,Dire Dawa,Dire Dawa Melka,Dire Dawa,East 1,IHSAN COMMUNICATION,Class D,Dire Dawa,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+305213,10.697119,39.787297,,Mekoy,Kemise Kela,Shewarobit,North East,Maleda Com Trading PLC,Class E,Shewarobit,Planned,FTK,Huawei,PH0,,Sub Urban,,,,,,,,
+405219,9.036521,38.626769,,Burayu,Burayu Ashewameda 2,Addis Ababa WA1,West Addis,Tiyn Trading Company,Class D,Addis Ababa WA1,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+406147,9.147641,39.029881,,Sendafa,Sendafa,Addis Ababa EA1,East Addis,Leapfrog Software Technology Africa PLC,Class C,Addis Ababa EA1,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,MS 1.3 SAR Received from Vendor
+406148,9.16974,38.766408,,Sululta,Sululta,Fiche,North West,Vanguard Communication Main dealer,Class C,Fiche,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+409181,9.059655,40.868064,,Chiro,Chiro 2,Chiro,East 1,Modern Tech Technologies PLC,Class D,Chiro,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+203263,8.989167,40.161872,,Awash Sebat,Awash,Semera,Afar,Afartech IT and Communication,Class D,Semera,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+122614,7.203566,37.780211,,Shishicho,Shinshicho,Sodo,South,Modern Tech Technologies PLC,Class C,Sodo,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,MS 1.1 SAR Visit Completed
+122622,7.353826,37.791053,,Doyo Gena,Doyo Gena,Hossana,South,Modern Tech Technologies PLC,Class D,Hossana,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+143105,8.995252,38.67126,,Addis Ababa,Kara 1,Addis Ababa WA2,West Addis,Modern Tech Technologies PLC,Class B,Addis Ababa WA2,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+143106,8.983749,38.671883,,Addis Ababa,Ajamba,Addis Ababa WA2,West Addis,Modern Tech Technologies PLC,Class B,Addis Ababa WA2,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+143107,8.977079,38.659217,,Addis Ababa,Alemgena Welete 2,Addis Ababa WA1,West Addis,Fibath trading,Class C,Addis Ababa WA1,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+143108,9.013164,38.677032,,Addis Ababa,Anfo,Addis Ababa WA2,West Addis,Modern Tech Technologies PLC,Class B,Addis Ababa WA2,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,
+147089,9.051541707,38.87072656,,Addis Ababa,Kotebe Kara,Addis Ababa EA2,East Addis,Leapfrog Software Technology Africa PLC,Class C,Addis Ababa EA2,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,
+403035,8.278875,35.105098,,Bure (Ilu Aba Bora),Gore-Bure,Bedele,West,Blue spark Technology,Class D,Bedele,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,MS 1.3 SAR Received from Vendor
+404123,7.696435,36.850959,,Jimma,Jimma Kochi,Jimma,West,Blue spark Technology,Class C,Jimma,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,MS 2.3 SLA and Document Received From Vendor
+404242,7.847349,36.581419,,Agaro,Agaro,Jimma,West,Blue spark Technology,Class C,Jimma,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,
+404250,7.794366,36.724679,,Yebu,Yebu,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,
+404265,7.841504,36.562647,,Agaro,Agaro,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,
+404270,7.855949,36.586118,,Agaro,Gembe Agaro,Jimma,West,Blue spark Technology,Class C,Jimma,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,
+407185,8.565782,39.268749,,Adama,Adama Bole,Adama,Central,Phoenix Telecom MAIN,Class B,Adama,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,
+407162,8.60131,39.131975,,Mojo,Mojo Deborah,Adama,Central,Phoenix Telecom MAIN,Class C,Bishoftu,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,
+407242,8.60159,39.122964,,Mojo,Mojo Deborah,Adama,Central,Phoenix Telecom MAIN,Class C,Bishoftu,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,MS 2.3 SLA and Document Received From Vendor
+407238,8.749809,39.003489,,Bishoftu,Bishoftu Gebeya,Adama,Central,Blue spark Technology,Class C,Bishoftu,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,
+407232,8.797673,38.908901,,Dukem,Dukem,Adama,Central,Blue spark Technology,Class C,Bishoftu,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,
+407079,8.154087,38.805154,,Meki,Meki,Adama,Central,Phoenix Telecom MAIN,Class C,Bishoftu,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,MS 1.3 SAR Received from Vendor
+506042,5.5914,44.2027,Kelafo,Kelafo,Kelafo,Gode,East 2,Mumin General Trading,Class D,Gode,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,19428,10511,2,Somali,Shabelle,Kelafo,Town,MS 9.5.1 RFI Notification Received
+101030,13.704247,38.175149,B30-4b,May Ayene,Endabaguna,Shire,North,Passion Technologies One Member PLC,Class F,Shire,Planned,FTK,Huawei,PH3,Highways and Major roads,Deep Rural,2933,14513,6,Tigray,North Western,Tselemti,Road,MS 9.1 CW Started
+407212,7.908002,38.712275,,Batu,Batu,Shashemene,Central,Phoenix Telecom MAIN,Class D,Shashemene,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,
+417029,7.348751,38.682241,,Negele Arsi,Arsi Negele,Shashemene,Central,Phoenix Telecom MAIN,Class C,Shashemene,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+405161,9.12478,37.0561,Bako,Baco,Baco,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH2,Small City,Sub Urban,4318,34088,1,Oromia,West Shewa,Bako Tibe,,MS 4.3.3 Construction Permit Received
+405081,9.107073,37.318466,C42-1,Bilunakeko,Ejaji,Ambo,West,Blue spark Technology,Class E,Ambo,Planned,FTK,Huawei,PH3,Highways and Major roads,Rural,43893,43893,3,Oromia,West Shewa,Cheliya,,MS 9.6 CW Completed
+401065,9.17224,35.835,Gimbi,Gimbi,Gimbi,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,,Urban,,,,,,,,MS 4.3.3 Construction Permit Received
+402044,9.17145,36.4667,,Golo (Kidame Gebeya),Kidame Gebeya,Nekemte,West,Blue spark Technology,Class E,Nekemte,Planned,FTK,,PH1,,,,,,,,,,
+404200,7.857616,36.602622,,Agaro,Gembe Agaro,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,
+142083,8.90848,38.73798,Addis Ababa,Addis Ababa,Sefera,Addis Ababa WA4,West Addis,Tiyn Trading Company,Class C,Addis Ababa WA4,Planned,FTK,Nokia,PH3,Large City,Urban,9939,5746361,1,Addis Ababa,Nifassilk Lafto,01,Town,
+404255,7.76362,36.73254,,Butire,Yebu,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,
+401015,9.17952,35.833,Gimbi,Gimbi,Gimbi,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,
+409048,8.49236,40.338,OR-R410-08,Haro adi,Mechara,Chiro,East 1,Modern Tech Technologies PLC,Class F,Chiro,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,MS 9.6 CW Completed
+305054,8.91626,39.3725,Balchi,Balchi,Arerti 1,Adama,Central,Phoenix Telecom MAIN,Class D,Bishoftu,Planned,FTK,Huawei,PH0,,Rural,,,,,,,,MS 9.3.2 Tower Erection Started
+404063,8.30548,36.94979,Atnago,Atnago,Limu Genet,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,Colo,Nokia,PH3,Additional Town,Rural,20353,20353,1,Oromia,Jimma,Limu Seka,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+408292,8.131324,39.238479,,Iteya,Iteya,Asela,Central,Modern Tech Technologies PLC,Class C,Asela,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,MS 1.1 SAR Visit Completed
+408014,7.529991,39.263159,,Bekoji,Bekoji,Asela,Central,Modern Tech Technologies PLC,Class C,Asela,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,MS 2.3 SLA and Document Received From Vendor
+412000,4.892797,38.116681,,Yabelo,Yabelo,Hawassa,South,Horn afrik communications and Trading PLC,Class D,Bule Hora,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,MS 1.3 SAR Received from Vendor
+414171,5.650693,38.250755,,Bule Hora,Bule Hora,Hawassa,South,Girma Gifawossen Trading,Class D,Bule Hora,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.3 SAR Received from Vendor
+417164,7.345343,38.691407,,Negele Arsi,Arsi Negele,Shashemene,Central,Phoenix Telecom MAIN,Class D,Shashemene,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.5 TSS Visit Completed
+417156,7.071649,38.783318,,Kofele,Kofele,Shashemene,Central,Modern Tech Technologies PLC,Class D,Shashemene,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.1 SAR Visit Completed
+417059,7.097596,39.20361,,Asasa,Asasa,Shashemene,Central,Modern Tech Technologies PLC,Class C,Shashemene,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.8 TSSR Final Validation by Safaricom
+305141,9.679932,39.519859,,Debre Berhan,Debre Berhan Tebase,Debre Berhan,North East,Maleda Com Trading PLC,Class C,Debre Berhan,Planned,FTK,Huawei,PH1,,,,,,,,,,
+402024,9.375605,36.52756,,Uke Karsa,Kidame Gebeya,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,,PH1,,,,,,,,,,
+404196,8.07304,36.9556,,Limu Genet,Limu Genet,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,FTK,Nokia,PH3,,Sub Urban,,,,Oromia,Jimma,Limu Kosa,,MS 1.3 SAR Received from Vendor
+408291,8.158452,39.239562,,Iteya,Iteya,Asela,Central,Modern Tech Technologies PLC,Class D,Asela,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,MS 1.8 TSSR Final Validation by Safaricom
+417221,7.428695,38.80778,,Goljota,Arsi Negele,Shashemene,Central,Phoenix Telecom MAIN,Class D,Shashemene,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,
+701130,8.114541,38.370324,,Butajira,Butajira Stadium,Hossana,South,Blue spark Technology,Class D,Butajira,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.1 SAR Visit Completed
+701030,8.01143,38.5274,,Koshe,Koshe,Hossana,South,Blue spark Technology,Class D,Butajira,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+701124,8.054885,38.468149,,Enseno,Inseno,Hossana,South,Blue spark Technology,Class D,Butajira,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,MS 1.1 SAR Visit Completed
+122640,7.174528,37.797765,,Awaye,Shinshicho,Sodo,South,Modern Tech Technologies PLC,Class D,Sodo,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,MS 1.1 SAR Visit Completed
+702105,7.602084,37.873388,,Hosaena,Hosaena 2A,Hossana,South,Modern Tech Technologies PLC,Class D,Hossana,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.3 SAR Received from Vendor
+706066,6.85257,37.7746,,Sodo,Sodo Merkato,Sodo,South,Horn afrik communications and Trading PLC,Class C,Sodo,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.3 SAR Received from Vendor
+720065,8.025184,38.32373,,Kibet,Butajira Stadium,Hossana,South,Blue spark Technology,Class D,Butajira,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 2.3 SLA and Document Received From Vendor
+720070,7.921507,38.468122,,Udassa,Werabe University,Hossana,South,Blue spark Technology,Class D,Butajira,Planned,FTK,Nokia,PH2,,Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+105040,14.288567,36.608012,,Humera,Mai Kadra,Shire,North,Reserved to North Distributor,Class D,Shire,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,
+105021,14.269918,36.621828,,Humera,Mai Kadra,Shire,North,Reserved to North Distributor,Class D,Shire,Planned,FTK,Huawei,PH2,,Rural,,,,,,,,
+508057,4.27879,42.06781,Dolobay,Dolo Bay,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class E,Gode,Planned,FTK,Huawei,PH0,,Urban,,,,,,,,
+105006,13.905883,37.139532,,Kafta,Mai Kadra,Shire,North,Reserved to North Distributor,Class D,Shire,Planned,FTK,Huawei,PH2,,Rural,,,,,,,,
+105050,13.709449,37.351413,,Dejena,Adi Remet,Shire,North,Reserved to North Distributor,Class F,Shire,Planned,FTK,Huawei,PH2,,Rural,,,,,,,,
+704084,6.47231,38.3413,Kebado,Kebado,Dilla 1,Hawassa,South,Girma Gifawossen Trading,Class D,Hawassa,Planned,FTK,Nokia,PH_SA,Additional Town,Rural,,54486,,Sidama,Sidama,Dara,,
+401019,9.16155,35.4755,Guliso,Guliso,Guliso,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH1,Additional Town,Sub Urban,,18041,,Oromia,West Wellega,Guliso,,MS 9.6 CW Completed
+603012,10.3165,34.6386,BG-R602-07,Homosha,Asosa 2,Nekemte,West,Blue spark Technology,Class E,Asosa,Planned,FTK,Huawei,PH3,Highways and Major roads,Sub Urban,,18667,,Benishangul Gumz,Assosa,Homosha,,MS 9.5.1 RFI Notification Received
+417220,7.358562,38.671824,,Negele Arsi,Arsi Negele,Shashemene,Central,Phoenix Telecom MAIN,Class C,Shashemene,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.1 SAR Visit Completed
+105009,13.795553,37.70186,,Mai Gaba,Adi Remet,Shire,North,Reserved to North Distributor,Class D,Shire,Planned,FTK,Huawei,PH2,,Deep Rural,,,,,,,,
+307062,11.51673,36.95037,,Lalibela (W. Gojjam),Durbete,Bahir Dar West,North West,Vanguard Communication Main dealer,Class D,Bahir Dar West,Planned,FTK,Huawei,PH2,,Sub Urban,,,,Amhara,West Gojam,Debub Achefer,,
+408254,8.344667,39.963617,Aba Jema_Mine,Aba Jema Mine,Sire,Asela,Central,Modern Tech Technologies PLC,Class F,Asela,Planned,FTK,Nokia,PH3,C Road,RURAL,,,,Oromia,Guna,Arsi,,MS 9.1 CW Started
+406146,9.170468,38.765752,,Sululta,Sululta,Fiche,North West,Vanguard Communication Main dealer,Class C,Fiche,Planned,FTK,Huawei,,,Sub Urban,,,,,,,,
+402040,8.76247,36.6386,,Nunu,Nunu,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,,PH1,,,,,,,,,,
+502107,9.346738,42.798501,Jijiga,Jijiga,Jigjiga Karamardha,Jijiga,East 2,Kimiya Telecom Company,Class B,Jijiga,Planned,FTK,Huawei,PH2,Large City,Urban,39330,323033,1,Somali,Fafan,Jigjiga town,Town,MS 3.1 Structural Analysis / Soil Test Received
+404222,7.976724,36.202976,Gatera,Gatira,Toba,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,  -    ,0,0,Oromia,Jimma,Setema,,MS 11.3 TI Completed
+407222,8.579006,39.263789,,Adama,Adama Bole,Adama,Central,Phoenix Telecom MAIN,Class D,Adama,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,
+409182,9.233696,40.756154,,Mieso,Mieso,Chiro,East 1,Modern Tech Technologies PLC,Class D,Chiro,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+405051,8.44258,37.4135,,Dire Godo,Boter Tolay,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,
+405050,8.53685,37.4305,,Silk Amba,Boter Tolay,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+405004,8.4217,37.5217,,Darge,Boter Tolay,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,
+405129,8.50033,37.49789,,Dikoshumo,Boter Tolay,Ambo,West,Blue spark Technology,Class F,Ambo,Planned,FTK,Huawei,PH3,,Rural,,,,,,,,
+603024,9.968833,34.505903,,Abramo,Asosa 1,Nekemte,West,Blue spark Technology,Class F,Asosa,Planned,FTK,Huawei,PH1,,Sub Urban,,,,Benishangul Gumz,Assosa,Assosa,,
+144165,9.018779,38.801044,Addis Ababa,Addis Ababa,Bole Megenagna,Addis Ababa EA3,East Addis,Phoenix Telecom MAIN,Class B,Addis Ababa EA3,Planned,FTK,Nokia,PH0,,Urban,,,,Addis Ababa,Region 14,Yeka,,
+402120,8.89975,36.4862,,Getema,Arjo,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,,PH1,,,,,,,,,,
+712006,5.83518,37.89981,Amaro kelle,Kele,Kele,Arbaminch,South,Horn afrik communications and Trading PLC,Class D,Arbaminch,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,12005,0,2,SNNP,Amaro,Amaro,Town,MS 9.5.1 RFI Notification Received
+407236,8.728856,38.936872,Bishoftu,Bishoftu,Bishoftu Menehariya,Adama,Central,Blue spark Technology,Class D,Bishoftu,Planned,FTK,Nokia,PH3,,Rural,,,,,,,,MS 1.5 TSS Visit Completed
+403140,7.842542,36.60853,,Agaro,Gembe Agaro,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,
+412042,3.548667,39.043133,,Moyale,Moyale,Hawassa,South,Horn afrik communications and Trading PLC,Class D,Bule Hora,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,MS 1.3 SAR Received from Vendor
+412043,3.540492,39.042926,,Moyale,Moyale,Hawassa,South,Horn afrik communications and Trading PLC,Class D,Bule Hora,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+414163,5.626777,38.238859,,Bule Hora,Bule Hora,Hawassa,South,Girma Gifawossen Trading,Class C,Bule Hora,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.8 TSSR Final Validation by Safaricom
+414065,5.645427,38.230343,,Bule Hora,Bule Hora,Hawassa,South,Girma Gifawossen Trading,Class C,Bule Hora,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+403051,7.90096,35.61,,,Gore-Bure,Bedele,West,Blue spark Technology,Class E,Bedele,Planned,Colo,Huawei,PH4,,Rural,,,,,,,,
+417072,7.108185,39.192902,,Asasa,Asasa,Shashemene,Central,Modern Tech Technologies PLC,Class C,Shashemene,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.8 TSSR Final Validation by Safaricom
+408029,7.96554,39.12231,,Asela,Asela Menehariya,Asela,Central,Modern Tech Technologies PLC,Class C,Asela,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+411010,7.3706,40.1898,,Gasera,Delo Sebero,Bale,Central,Modern Tech Technologies PLC,Class D,Bale,Planned,FTK,,PH3,,,,,,,,,,
+101012,14.396504,37.770872,Shiraro,Sheraro,Shiraro,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH3,Small City,Rural,12449,22796,2,Tigray,North Western,Sheraro town,Town,MS 9.5.1 RFI Notification Received
+101009,14.399172,38.177676,E27-1a,Adinebereid,Shiraro,Shire,North,Passion Technologies One Member PLC,Class E,Shire,Planned,FTK,Huawei,PH3,Highways and Major roads,Deep Rural,4642,15792,4,Tigray,North Western,Seyemti Adyabo,Road,MS 9.2.2 Foundation Started
+101023,13.86322,38.187103,,Hinitset,Endabaguna,Shire,North,Passion Technologies One Member PLC,Class F,Shire,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,
+309085,11.039005,36.906967,A3-6,Adis Kidame to Injibara,Addis Kidam Dangila,Awi,North West,Vanguard Communication Main dealer,Class E,Awi,Planned,FTK,Huawei,PH2,Highways and Major roads,Rural,12576,12576,1,Amhara,Awi,Fagta Lakoma,Road,MS 11.3 TI Completed
+410262,9.357812,42.04238,,Aweday,Aweday,Harer,East 1,IHSAN COMMUNICATION,Class C,Harer,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+301095,12.9331,37.7178,,Benker,Dabat,Gondar,North West,Vanguard Communication Main dealer,Class E,Gondar,Planned,FTK,Huawei,PH1,,Rural,,,,,,,,
+140134,8.91309,38.708364,Sebeta,Alem Gena,Sefera,Addis Ababa WA4,West Addis,Tiyn Trading Company,CLASS D,Addis Ababa WA4,Planned,FTK,Nokia,PH3,Medium City,Sub Urban,17295,180000,1,Oromia,Finfine Special,Sebeta town,Town,MS 1.1 SAR Visit Completed
+402017,9.73422,36.6494,,Andode to Gatira,Gutin,Nekemte,West,Blue spark Technology,Class F,Nekemte,Planned,FTK,Huawei,PH3-Tx Only,,Rural,,,,,,,,
+122973,5.58651,37.5476,Mizan Aman town,Segen,Kele,Arbaminch,South,Horn afrik communications and Trading PLC,Class D,Arbaminch,Planned,Colo,Nokia,PH3,Small City,Rural,17274,72413,1,SNNP,Konso,Segen Zuria,Town,
+401064,9.19116,35.8357,Gimbi,Gimbi,Gimbi,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,Colo,Huawei,PH3,,Sub Urban,,,,,,,,MS 1.8 TSSR Final Validation by Safaricom
+408290,8.14857,39.3599,,Huruta,Iteya,Asela,Central,Modern Tech Technologies PLC,Class D,Asela,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,MS 1.8 TSSR Final Validation by Safaricom
+301143,12.524268,37.158379,,Alem Tsehay,Aykel,Metema,North West,MyHello Communication,Class D,Metema,Planned,FTK,Huawei,PH1,,Rural,,,,,,,,MS 9.6 CW Completed
+305033,10.224103,39.449032,GomenAmba,Gomen Amba,Wogere,Shewarobit,North East,Maleda Com Trading PLC,Class D,Shewarobit,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,MS 9.6 CW Completed
+301110,12.644789,37.375677,,Keriwa Mezewa,Tikil Dingay,Gondar,North West,MyHello Communication,Class F,Gondar,Planned,FTK,Huawei,PH0,,Sub Urban,,,,,,,,MS 4.3.3 Construction Permit Received
+403014,7.956,35.538,,Bichano,Gore-Bure,Bedele,West,Blue spark Technology,Class E,Bedele,Planned,Colo,Huawei,PH4,,Rural,,,,,,,,
+103007,13.75529,39.707213,Haik Meshal,Hayk Meshal,Atsbi Endasilasie,Mekele North,North,Passion Technologies One Member PLC,Class D,Mekele North,Planned,FTK,Huawei,PH2,,Deep Rural,,,,,,,,
+407051,8.542445,39.29019,Adama,Adama,Adama Gendegara,Adama,Central,Modern Tech Technologies PLC,Class C,Adama,Planned,FTK_Relo,Nokia,PH0,Large City,Rural,20199,532189,11,Oromia,East Shewa,Adama town,Town,MS 1.3 SAR Received from Vendor
+408042,8.1388,39.9023,Chole Town,Chole,Chole,Asela,Central,Modern Tech Technologies PLC,Class D,Asela,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,12797,0,2,Oromia,Arsi,Chole,Town,MS 12.5 NMS Integration Completed
+407174,8.51965,39.27602,Adama,Adama,Adama Tikur Abay,Adama,Central,Modern Tech Technologies PLC,Class C,Adama,Planned,FTK,Nokia,PH3,Large City,URBAN,  -    ,0,0,Oromia,East Shewa,Adama town,Town,MS 9.3.3 Tower Erection Completed
+407078,8.53401,39.286959,Adama,Adama,Adama Amede,Adama,Central,Modern Tech Technologies PLC,Class B,Adama,Planned,FTK,Nokia,PH3,Large City,Urban,5764,532189,1,Oromia,East Shewa,Adama town,Town,MS 9.1 CW Started
+141019,8.845181,38.797953,Addis Ababa,Addis Ababa,Gelan,Adama,Central,Blue spark Technology,Class C,Bishoftu,Planned,FTK_Relo,Nokia,PH1,Large City,Urban,3146,5746361,2,Addis Ababa,Akaki Kality,02,Town,MS 1.3 SAR Received from Vendor
+405055,8.98122,37.5931,Irensa(Toke Kutaye),Toke  ,Guder,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH2,Additional Town,Sub Urban,15881,5857,1,Oromia,West Shewa,Toke Kutaye,,MS 9.3.2 Tower Erection Started
+143075,9.028843,38.676043,Addis Ababa,Addis Ababa,Burayu Ashewameda 1,Addis Ababa WA1,West Addis,Tiyn Trading Company,Class C,Addis Ababa WA1,Planned,FTK,Nokia,PH3,Large City,Urban,3227,5746361,1,Addis Ababa,Kolfe Keranyo,08,Town,MS 1.4 SAR Final Technical Validation by Safaricom
+405153,9.12785,37.0677,Bako,Baco,Baco,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,Colo,Huawei,PH2,Small City,Sub Urban,8776,34088,1,Oromia,West Shewa,Bako Tibe,,MS 1.8 TSSR Final Validation by Safaricom
+710083,6.30081,36.8822,Sawla,Sawla,Sawla,Sodo,South,Horn afrik communications and Trading PLC,Class D,Sodo,Planned,Colo,Nokia,PH3,Small City,Rural,,69384,,SNNP,Gofa,Sawla town,,MS 1.9.7.3 LLD Validated by Colo Partners
+710082,6.294805,36.887308,Sawla,Sawla,Sawla,Sodo,South,Horn afrik communications and Trading PLC,Class D,Sodo,Planned,Colo,Nokia,PH3,Small City,Rural,,69384,,SNNP,Gofa,Sawla town,,MS 1.9.7.3 LLD Validated by Colo Partners
+501001,10.426944,42.23888,Adigala Town,Adigala,Shinle,Dire Dawa,East 1,IHSAN COMMUNICATION,Class E,Dire Dawa,Planned,FTK,Huawei,PH0,Additional Town,Rural,10531,4668,2,Somali,Siti,Hadhagala,Town,MS 11.3 TI Completed
+501025,9.8393,42.1615,C100-1,Dire Dawa to Dewole,Shinle,Dire Dawa,East 1,IHSAN COMMUNICATION,Class F,Dire Dawa,Planned,FTK,Huawei,PH2,Highways and Major roads,Rural,16995,16995,7,Somali,Siti,Dembel,Road,MS 9.5.1 RFI Notification Received
+501002,10.75099669,42.57318336,C100-1,Aysha,Shinle,Dire Dawa,East 1,IHSAN COMMUNICATION,Class F,Dire Dawa,Planned,FTK,Huawei,PH1,C Road,Rural,6287,6287,5,Somali,Siti,Ayisha,Road,MS 9.6 CW Completed
+603010,9.75925,34.7321,Bambesi,Bambasi,Asosa 1,Nekemte,West,Blue spark Technology,Class D,Asosa,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,14114,18525,4,Benishangul Gumz,Assosa,Bambasi,,MS 9.5.1 RFI Notification Received
+603067,9.7528,34.72836,Burka Boji,Bambasi,Asosa 1,Nekemte,West,Blue spark Technology,Class D,Asosa,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,18973,13578,1,Benishangul Gumz,Assosa,Bambasi,,MS 4.3.3 Construction Permit Received
+502046,9.78913,43.2247,TeferiBer,Aw Bare,Awbare,Jijiga,East 2,IHSAN COMMUNICATION,Class D,Jijiga,Planned,Colo,Huawei,PH2,Additional Town,Sub Urban,14569,15322,1,Somali,Fafan,Aw-Bare,Town,MS 12.5 NMS Integration Completed
+307144,11.41146,37.14613,Mer Awi,Merawi,Merawi,Bahir Dar West,North West,Vanguard Communication Main dealer,Class D,Bahir Dar West,Planned,FTK,Huawei,PH0,Small City,Sub Urban,15465,43115,1,Amhara,West Gojam,Mecha,Town,MS 12.5 NMS Integration Completed
+307113,11.255,37.1736,Sangi,Mehal Genet,Wetet Abay,Bahir Dar West,North West,Vanguard Communication Main dealer,Class D,Bahir Dar West,Planned,Colo,Huawei,PH2,Additional Town,Sub Urban,25814,21290,1,Amhara,West Gojam,Debub Mecha,Town,MS 11.3 TI Completed
+405022,8.99929,37.3251,Lijaji,Ejaji,Ejaji,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,MS 9.5.1 RFI Notification Received
+405048,9.12912,37.515,HamusGebeya(Chelia),Balemi,Guder,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,17063,17616,3,Oromia,West Shewa,Mida Kegn,,MS 9.6 CW Completed
+417160,6.541734,39.087701,Chire,Chire,Werka,Shashemene,Central,Modern Tech Technologies PLC,Class D,Shashemene,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,  -    ,0,0,Sidama,Sidama,Chire,,MS 2.3 SLA and Document Received From Vendor
+101068,13.65681,38.157,B30-4b,May Ayene,Endabaguna,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH3,Highways and Major roads,Deep Rural,6956,16821,1,Tigray,North Western,Tselemti,Town,MS 4.3.3 Construction Permit Received
+309097,10.968798,36.510656,,Chagni,Chagni,Awi,North West,Vanguard Communication Main dealer,Class C,Awi,Planned,FTK,Huawei,PH1,,Rural,,,,,,,,MS 9.2.2 Foundation Started
+309003,10.9587231,36.5170441,,Chagni,Chagni,Awi,North West,Vanguard Communication Main dealer,Class C,Awi,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,MS 9.6 CW Completed
+409132,9.032671,40.777404,Lalo Gudo,Lalo Gudo,Chiro 1,Chiro,East 1,Modern Tech Technologies PLC,Class E,Chiro,Planned,FTK,Huawei,PH2,Rural,Rural,27278,27278,3,Oromia,West Hararge,Chiro Zuria,Road,MS 3.4 SD Validation by Safaricom
+409110,9.223779,40.653713,Denebe Hunide Masoma,Denebe Hunide Masoma,Mieso,Chiro,East 1,Modern Tech Technologies PLC,Class F,Chiro,Planned,FTK,Huawei,PH1,Rural,Rural,8741,8741,1,Oromia,West Hararge,Mieso,Road,MS 9.6 CW Completed
+301125,12.7671547,37.6323929,,Amba Giorgis,Amba Giorgis,Gondar,North West,Vanguard Communication Main dealer,Class D,Gondar,Planned,FTK,Huawei,PH0,,Rural,,,,,,,,MS 9.3.3 Tower Erection Completed
+301197,13.1215248,37.8825607,,Debark,Debark,Gondar,North West,Vanguard Communication Main dealer,Class E,Gondar,Planned,FTK,Huawei,PH0,,Rural,,,,,,,,MS 9.6 CW Completed
+306111,10.059373,37.837933,ArboAbis,Kork,Amber,Debre Markos,North West,Vanguard Communication Main dealer,Class E,Debre Markos,Planned,FTK,Huawei,PH0,Additional Town,Sub Urban,,4043,,Amhara,East Gojam,Baso Liben,,MS 9.6 CW Completed
+306178,10.344015,37.751133,Debre Markos,Debre Markos,Debre Markos TH Square,Debre Markos,North West,Vanguard Communication Main dealer,Class D,Debre Markos,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,MS 9.2.2 Foundation Started
+306095,10.379865,37.887605,Misle Awash,Misle Ara,Rob Gebeya,Debre Markos,North West,Vanguard Communication Main dealer,Class E,Debre Markos,Planned,FTK,Huawei,PH1,Rural,Rural,17908,17908,2,Amhara,East Gojam,Aneded,Road,MS 11.3 TI Completed
+305030,9.89423,39.1451,Inewari,Enewari,Lemi,Debre Berhan,North East,Maleda Com Trading PLC,Class D,Debre Berhan,Planned,Colo,Huawei,PH2,Additional Town,Sub Urban,25971,21842,1,Amhara,North Shewa (AM),Moretna Jiru,,MS 1.9.7.3 LLD Validated by Colo Partners
+304145,11.2356,39.2337,Ajebar,Ajebar,Ajebar,Dessie,North East,MyHello Communication,Class D,Dessie,Planned,Colo,Huawei,PH1,Additional Town,Sub Urban,4340,20734,1,Amhara,South Wello,Tenta,Town,MS 11.3 TI Completed
+304035,11.234,39.2465,Ajebar,Ajebar,Ajebar,Dessie,North East,MyHello Communication,Class D,Dessie,Planned,Colo,Huawei,PH1,Additional Town,Sub Urban,19237,20734,1,Amhara,South Wello,Tenta,Town,MS 11.2 TI Started
+307061,11.5608,36.8174,,Shambila Abina,Liben,Bahir Dar West,North West,Vanguard Communication Main dealer,Class F,Bahir Dar West,Planned,Colo,Huawei,PH4,,Rural,,,,,,,,
+302078,11.80786,38.20446,B22-5,Kimir Dingay to Gasey,Nifas Mewcha,South Gondar,North West,MyHello Communication,Class D,South Gondar,Planned,Colo,Huawei,PH1,B Road,Rural,3898,3898,1,Amhara,South Gondar,Guna Begemider,Road,MS 12.5 NMS Integration Completed
+304055,11.209119,39.225966,Amba Mariyam,Amba Mariyam,Ajebar,Dessie,North East,MyHello Communication,Class D,Dessie,Planned,FTK,Huawei,PH1,Additional Town,Rural,21179,789,4,Amhara,South Wello,Tenta,Road,MS 11.3 TI Completed
+304104,11.2302,39.6069,AM-R304-08,Dessie,Kuta Ber Wollo University,Dessie,North East,MyHello Communication,Class D,Dessie,Planned,FTK,Huawei,PH2,Highways and Major roads,Rural,12245,12245,3,Amhara,South Wello,Dessie town,Town,MS 11.3 TI Completed
+304225,11.04494,39.43035,Key Gedel 29,Key Gedel 29,Dessie Zuriya Woreda,Dessie,North East,Maleda Com Trading PLC,Class F,Dessie,Planned,Colo,Huawei,PH1,Additional Town,Rural,16026,876,1,Amhara,South Wello,Dessie Zuria,Road,MS 11.3 TI Completed
+304308,11.26804,39.55052,KutaBer,Kutaber,Kuta Ber Wollo University,Dessie,North East,MyHello Communication,Class D,Dessie,Planned,Colo,Huawei,PH1,Additional Town,Sub Urban,6887,26547,1,Amhara,South Wello,Kutaber,Town,MS 11.3 TI Completed
+705010,6.16301,38.20685,Yirga Chefe,Yirga Chefe,Yirgachefe,Hawassa,South,Girma Gifawossen Trading,Class D,Hawassa,Planned,Colo,Nokia,PH2,Small City,Sub Urban,54317,160246,1,SNNP,Gedeo,Yirgachefe town,Town,MS 13.5 Site On Air
+302022,11.61004,38.05274,MekaneYesus,Mekane Yesus,Mekane Yesus,South Gondar,North West,MyHello Communication,Class D,South Gondar,Planned,Colo,Huawei,PH1,Small City,Sub Urban,19097,35224,1,Amhara,South Gondar,Mekan Eyesuse,Town,MS 11.3 TI Completed
+407264,8.511062,39.552716,Doni,Doni,Sire,Asela,Central,Modern Tech Technologies PLC,Class D,Asela,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,,,,Oromia,East Shewa,Boset,,MS 9.6 CW Completed
+406026,9.62356,38.6475,Fital,Fital,Muke Turi Fital,Fiche,North West,Vanguard Communication Main dealer,Class D,Fiche,Planned,Colo,Huawei,PH2,Additional Town,Sub Urban,20886,13005,2,Oromia,North Shewa (OR),Yaya Gulele,,MS 1.8 TSSR Final Validation by Safaricom
+302018,11.6085,38.5401,AribGegeya,Arb Gebeya Gondar,Arb Gebeya,South Gondar,North West,MyHello Communication,Class D,South Gondar,Planned,Colo,Huawei,PH2,Additional Town,Sub Urban,17126,15913,1,Amhara,South Gondar,Tach Gayint,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+303170,11.814574,38.713297,B22-4,Filakit,Filakit,Woldiya,North East,MyHello Communication,Class E,Woldiya,Planned,FTK,Huawei,PH1,B Road,Rural,4358,4358,1,Amhara,North Wello,Meket,Town,MS 11.3 TI Completed
+302149,11.8026,38.2989,Dmot,Damot,Nifas Mewcha,South Gondar,North West,MyHello Communication,Class E,South Gondar,Planned,FTK,Huawei,PH1,Rural,Rural,7835,7835,4,Amhara,South Gondar,Lay Gayint,Road,MS 11.3 TI Completed
+302093,11.6239,38.5291,Enzhat K2,Arb Gebeya Gondar,Arb Gebeya,South Gondar,North West,MyHello Communication,Class D,South Gondar,Planned,Colo,Huawei,PH2,Additional Town,Rural,33465,5678,2,Amhara,South Gondar,Tach Gayint,Town,MS 11.3 TI Completed
+302009,11.75298,38.38821,Gobgob Town,Gobgob ,Nifas Mewcha,South Gondar,North West,MyHello Communication,Class D,South Gondar,Planned,FTK,Huawei,PH0,Additional Town,Sub Urban,19975,2567,1,Amhara,South Gondar,Lay Gayint,Town,MS 11.3 TI Completed
+304033,11.1263,39.2268,Fito,Fito,Tulu Awliya,Dessie,North East,MyHello Communication,Class D,Dessie,Planned,Colo,Huawei,PH1,Additional Town,Sub Urban,32804,5681,7,Amhara,South Wello,Tenta,Road,MS 11.3 TI Completed
+309022,11.5656,36.4902,,Fendka,Fendka,Bahir Dar West,North West,Vanguard Communication Main dealer,Class C,Bahir Dar West,Planned,,,,,,,,,,,,,
+302151,11.71888,38.45945,NefasMewcha,Nefas Mewcha,Nifas Mewcha,South Gondar,North West,MyHello Communication,Class D,South Gondar,Planned,Colo,Huawei,PH2,Small City,Sub Urban,10329,48214,1,Amhara,South Gondar,Nefas Mewicha town,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+302113,11.74912,38.47419,NefasMewcha,Nefas Mawcha,Nifas Mewcha,South Gondar,North West,MyHello Communication,Class D,South Gondar,Planned,Colo,Huawei,PH1,Small City,Sub Urban,11404,48214,1,Amhara,South Gondar,Nefas Mewicha town,Town,MS 11.3 TI Completed
+302013,11.734357,38.3422255,Sali Town,Sali ,Nifas Mewcha,South Gondar,North West,MyHello Communication,Class D,South Gondar,Planned,FTK,Huawei,PH2,Additional Town,Rural,18466,456,2,Amhara,South Gondar,Lay Gayint,Town,MS 9.5.1 RFI Notification Received
+506031,6.46803,42.1741,Imi,East Imi,Imi,Gode,East 2,Horn afrik communications and Trading PLC,Class F,Gode,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,
+301045,12.20384,37.63211,A3-9a,Wereta  to Maksegnet,Maksenyt,Gondar,North West,MyHello Communication,Class F,Gondar,Planned,FTK,Huawei,PH0,A Road,Rural,32208,32208,2,Amhara,Central Gondar,Gonder Zuria,Road,MS 12.5 NMS Integration Completed
+301050,12.4699898,37.6452065,,Dancaz,Maksenyt,Gondar,North West,MyHello Communication,Class F,Gondar,Planned,FTK,Huawei,PH0,,Sub Urban,,,,,,,,MS 9.2.2 Foundation Started
+301020,12.25714,37.62825,Enfranz Town,Enfranz,Maksenyt,Gondar,North West,MyHello Communication,Class D,Gondar,Planned,Colo,Huawei,PH0,Additional Town,Sub Urban,18115,2346,1,Amhara,Central Gondar,Gonder Zuria,Town,MS 12.5 NMS Integration Completed
+105018,14.279441,36.617734,,Humera,Mai Kadra,Shire,North,Reserved to North Distributor,Class D,Shire,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,
+414019,5.88869,38.96542,Adola,Adola,Adola,Hawassa,South,Modern Tech Technologies PLC,Class D,Bule Hora,Planned,FTK,Nokia,PH3,Small City,Rural,9518,134343,18,Oromia,Guji,Adola town,Town,MS 11.3 TI Completed
+414001,5.88519,38.97895,Adola,Adola,Adola,Hawassa,South,Modern Tech Technologies PLC,Class D,Bule Hora,Planned,Colo,Nokia,PH3,Small City,Sub Urban,20868,134343,2,Oromia,Guji,Adola town,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+414052,5.869102,38.994011,Adola,Adola,Adola,Hawassa,South,Modern Tech Technologies PLC,Class D,Bule Hora,Planned,Colo,Nokia,PH3,Small City,Rural,12847,134343,15,Oromia,Guji,Adola town,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+414108,5.33429,39.56294,Negele Borena,Negele Borena,Negele,Hawassa,South,Modern Tech Technologies PLC,Class C,Bule Hora,Planned,Colo,Nokia,PH3,Small City,Sub Urban,9386,100453,3,Oromia,Guji,Liben,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+705018,6.16165,38.19648,Yirga Chefe,Yirga Chefe,Yirgachefe,Hawassa,South,Girma Gifawossen Trading,Class D,Hawassa,Planned,Colo,Nokia,PH2,Small City,Sub Urban,16565,160246,3,SNNP,Gedeo,Yirgachefe town,Town,MS 12.5 NMS Integration Completed
+414005,5.32909,39.57164,Negele Borena,Negele Borena,Negele,Hawassa,South,Modern Tech Technologies PLC,Class C,Bule Hora,Planned,Colo,Nokia,PH3,Small City,Urban,7872,100453,4,Oromia,Guji,Negele town,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+414009,5.33754,39.57204,Negele Borena,Negele Borena,Negele,Hawassa,South,Modern Tech Technologies PLC,Class C,Bule Hora,Planned,Colo,Nokia,PH3,Small City,Sub Urban,10375,100453,1,Oromia,Guji,Negele town,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+414066,5.34257,39.57579,Negele Borena,Negele Borena,Negele,Hawassa,South,Modern Tech Technologies PLC,Class C,Bule Hora,Planned,Colo,Nokia,PH3,Small City,Urban,3864,100453,8,Oromia,Guji,Negele town,Town,MS 1.9.7.3 LLD Validated by Colo Partners
+414041,5.332,39.5792,Negele Borena,Negele Borena,Negele,Hawassa,South,Modern Tech Technologies PLC,Class C,Bule Hora,Planned,FTK,Nokia,PH3,Small City,Sub Urban,8539,100453,6,Oromia,Guji,Negele town,Town,MS 11.3 TI Completed
+704119,7.0504,38.48244,Awasa,Hawassa,Hawassa 1A,Hawassa,South,Modern Tech Technologies PLC,Class B,Hawassa,Planned,FTK_Relo,Nokia,PH1,Large City,Rural,9461,257022,1,Sidama,Sidama,Hawasa town,Town,MS 1.1 SAR Visit Completed
+405012,9.459753,38.348256,Rejji,Mekoda,Inchini,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,13024,43232,4,Oromia,West Shewa,Adda Berga,,MS 9.6 CW Completed
+702053,7.59485,38.06868,Chora (Jimma),Dosha,Bonosha,Sodo,South,Modern Tech Technologies PLC,Class D,Sodo,Planned,FTK,Nokia,PH3,,RURAL,,,,,,,,MS 11.3 TI Completed
+401001,9.09652,35.3974,Ayira Town,Ayira,Ayira,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH1,Additional Town,Sub Urban,,25367,,Oromia,West Wellega,Ayira,,MS 4.3.3 Construction Permit Received
+407266,8.493346,39.512235,E91,Doni to Bofa,Adama Welenchiti,Adama,Central,Modern Tech Technologies PLC,Class F,Adama,Planned,FTK,Nokia,PH3,C Road,RURAL,,,,Oromia,Boset,East Shewa,,MS 9.2.3 Foundation Completed
+502038,9.349792,42.818737,Jijiga,Jijiga,Jigjiga Garabcase,Jijiga,East 2,Kimiya Telecom Company,Class C,Jijiga,Planned,FTK,Huawei,PH0,Large City,Urban,4645,323033,1,Somali,Fafan,Jigjiga town,Town,MS 2.5 SLA Signed by Safaricom
+505014,6.74863,44.2769,KebriDehar,Kebri Dehar,Kebri Dehar,Gode,East 2,Mumin General Trading,Class D,Gode,Planned,FTK,Huawei,PH3,Small City,Rural,25326,36971,1,Somali,Korahe,Kebridehar town,Town,MS 1.3 SAR Received from Vendor
+310024,10.71852,39.862474,Artuma,Artuma,Kemise Oasis,Shewarobit,North East,Maleda Com Trading PLC,Class E,Shewarobit,Planned,FTK,Huawei,PH2,Additional Town,Rural,,223,,Amhara,Oromia,Artuma Fursi,,MS 13.5 Site On Air
+141070,8.89283,38.809714,Addis Ababa,Addis Ababa,AASTU-UNISA 1,Addis Ababa EA4,East Addis,Phoenix Telecom MAIN,Class C,Addis Ababa EA4,Planned,FTK,Nokia,PH0,Large City,Urban,,5746361,,Addis Ababa,Region 14,Akaki Kality,,MS 11.2 TI Started
+310050,10.14126,39.96715,A2-4a,Ataye to Robit,Shewa Robit Zuti,Shewarobit,North East,Maleda Com Trading PLC,Class F,Shewarobit,Planned,FTK,Huawei,PH0,A Road,Rural,3570,3570,2,Amhara,Oromia,Jilye Tumuga,Road,MS 11.2 TI Started
+310032,10.16521,39.97236,A2-4a,Bete Ardaga,Shewa Robit Zuti,Shewarobit,North East,Maleda Com Trading PLC,Class D,Shewarobit,Planned,FTK,Huawei,PH0,A Road,Rural,11645,11645,6,Amhara,Oromia,Jilye Tumuga,Road,MS 11.3 TI Completed
+303164,12.145999,39.623464,Kobo,Kobo,Kobo,Woldiya,North East,MyHello Communication,Class D,Woldiya,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,MS 4.3.3 Construction Permit Received
+310021,10.080615,39.993535,Jawaha,Jawaha,Shewa Robit Zuti,Shewarobit,North East,Maleda Com Trading PLC,Class F,Shewarobit,Planned,FTK,Huawei,PH1,Rural,Rural,12281,12281,9,Amhara,Oromia,Jilye Tumuga,Road,MS 11.3 TI Completed
+410116,9.571411,42.158703,Serka Hama,Serka Hama,Kombolcha East,Harer,East 1,Mumin General Trading,Class E,Harer,Planned,FTK,Huawei,PH2,Rural,Rural,16245,16245,9,Oromia,East Hararge,Kombolcha,Road,MS 4.3.3 Construction Permit Received
+303010,12.0394431,39.0393404,Lalibela,Lalibela,Lalibela,Woldiya,North East,MyHello Communication,Class D,Woldiya,Planned,FTK,Huawei,PH2,Small City,Sub Urban,15257,23188,12,Amhara,North Wello,Lalibela town,Town,MS 9.6 CW Completed
+303092,12.019,39.0521,Lalibela,Lalibela,Lalibela,Woldiya,North East,MyHello Communication,Class D,Woldiya,Planned,Colo,Huawei,PH2,Small City,Sub Urban,3192,23188,3,Amhara,North Wello,Lalibela town,Town,MS 11.3 TI Completed
+303021,11.87036,38.949758,Aydefer,Aydefer,Lalibela,Woldiya,North East,MyHello Communication,Class F,Woldiya,Planned,FTK,Huawei,PH2,Additional Town,Rural,14877,974,9,Amhara,North Wello,Angot,Road,MS 9.5.1 RFI Notification Received
+102104,14.275448,39.15606,A2-12a,Inticho ,Enticho,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH3,Highways and Major roads,Sub Urban,3498,12137,1,Tigray,Central,Enticho town,Town,MS 9.6 CW Completed
+102023,14.02972,38.78144,Kubanot,Mahbere Dego,Mahbere Dego,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH2,,Sub Urban,,,,,,,,
+305032,10.3119,39.6555,MehalMeda,Mehal Meda,Mehal Meda,Shewarobit,North East,Maleda Com Trading PLC,Class D,Shewarobit,Planned,Colo,Huawei,PH2,,Sub Urban,,,,,,,,MS 1.9.7.3 LLD Validated by Colo Partners
+305029,9.75819,39.1953,Deneba(Saya Debir Wa,Deneba (1),Deneba,Debre Berhan,North East,Maleda Com Trading PLC,Class D,Debre Berhan,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,
+414191,5.404653,38.291775,Finchawa,Finchawa,Fichawa,Hawassa,South,Girma Gifawossen Trading,Class D,Bule Hora,Planned,FTK,Nokia,PH3,,Urban,,,,,,,,MS 9.1 CW Started
+403038,8.41293,35.61404,Bilo Nopha,Nopa,Yayo,Bedele,West,Blue spark Technology,Class D,Bedele,Planned,FTK,Nokia,PH3,Additional Town,Rural,,3910,,Oromia,Ilu Aba Bora,Bilo Nopha,,MS 9.5.1 RFI Notification Received
+402053,9.016062,36.170006,A4-6,Degaga Dedesa,Nekemte Darge,Nekemte,West,Blue spark Technology,Class F,Nekemte,Planned,FTK,Huawei,PH3,Highways and Major roads,Rural,,38750,,Oromia,East Wellega,Diga,,MS 9.6 CW Completed
+402050,9.02935,36.6243,Gute,Gute,Nekemte Bord,Nekemte,West,Blue spark Technology,Class E,Nekemte,Planned,FTK,Huawei,PH2,Additional Town,Sub Urban,31824,2128,2,Oromia,East Wellega,Wayu Tuka,,MS 9.5.1 RFI Notification Received
+404203,7.66753,36.84842,,Jimma,Jimma University,Jimma,West,Blue spark Technology,Class B,Jimma,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,MS 3.4 SD Validation by Safaricom
+501022,9.57251,41.6256,Hurso,EDF Peace Keeping,Hurso,Dire Dawa,East 1,IHSAN COMMUNICATION,Class D,Dire Dawa,Planned,FTK,Huawei,PH2,,Urban,,,,,,,,MS 4.3.3 Construction Permit Received
+414192,5.427383,38.376778,Finchawa_Baya Gundi,Finchawa Baya Gundi,Fichawa,Hawassa,South,Girma Gifawossen Trading,Class F,Bule Hora,Planned,FTK,Nokia,PH3,,Rural,,,,,,,,MS 4.3.3 Construction Permit Received
+408253,8.349356,39.997603,Aba Jema_Mine,Aba Jema Mine,Sire,Asela,Central,Modern Tech Technologies PLC,Class F,Asela,Planned,FTK,Nokia,PH3,C Road,RURAL,,,,Oromia,Guna,Arsi,,MS 9.1 CW Started
+413062,8.90159,38.5716,Sebeta,Dima,Dima Tefki 1,Addis Ababa WA1,West Addis,Fibath trading,Class D,Addis Ababa WA1,Planned,Colo,Huawei,PH0,Small City,Sub Urban,6487,371870,1,Oromia,Finfine Special,Sebeta Hawas,Town,MS 13.5 Site On Air
+304036,11.034824,38.772671,Ashenga,Ajibar/ Ashenga,Ashenge,Dessie,North East,Maleda Com Trading PLC,Class D,Dessie,Planned,FTK,Huawei,PH1,Additional Town,Rural,45248,15187,6,Amhara,South Wello,Sayint,Town,MS 12.5 NMS Integration Completed
+404260,7.747695,37.228423,,Asendabo,Asendabo,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,FTK,Nokia,PH0,,Sub Urban,,,,,,,,
+305008,10.348958,39.956747,Ataye-Efeson,Ataye,Ataye,Shewarobit,North East,Maleda Com Trading PLC,Class D,Shewarobit,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,MS 9.6 CW Completed
+309029,10.82081,36.53204,,Gisayta,Zemen,Awi,North West,Vanguard Communication Main dealer,Class E,Awi,Planned,FTK,Huawei,PH1,,Rural,,,,,,,,MS 4.3.3 Construction Permit Received
+304042,10.4236,39.2521,Dangera,Degolo,Deglo,Debre Berhan,North East,Maleda Com Trading PLC,Class D,Debre Berhan,Planned,Colo,Huawei,PH3,,Sub Urban,,,,,,,,MS 1.9.7.3 LLD Validated by Colo Partners
+304193,10.4225,39.2581,Dangera,Degolo,Deglo,Debre Berhan,North East,Maleda Com Trading PLC,Class D,Debre Berhan,Planned,Colo,Huawei,PH3,,Sub Urban,,,,,,,,MS 1.9.7.3 LLD Validated by Colo Partners
+302062,11.5834,38.0886,Den Golit Sositu Yequra,Den Golit Sositu Yequra,Mekane Yesus,South Gondar,North West,MyHello Communication,Class E,South Gondar,Planned,Colo,Huawei,PH1,Additional Town,Rural,30959,543,9,Amhara,South Gondar,East Esite,Road,MS 11.2 TI Started
+303149,11.82174,39.58358,Weldiya,Weldiya,Woldiya Mugad,Woldiya,North East,MyHello Communication,Class C,Woldiya,Planned,FTK,Huawei,PH3,Small City,Urban,2908,77520,1,Amhara,North Wello,Woldiya town,,MS 3.4 SD Validation by Safaricom
+302019,11.63072,37.7493,ArbGebeya(Dera),Arb Gebeya (S. Gondar),Hamusit 1,South Gondar,North West,MyHello Communication,Class D,South Gondar,Planned,Colo,Huawei,PH2,Additional Town,Sub Urban,17056,10450,1,Amhara,South Gondar,Dera (AM),Town,MS 12.5 NMS Integration Completed
+505020,6.74093,44.2646,KebriDehar,Kebri Dehar,Kebri Dehar,Gode,East 2,Mumin General Trading,Class D,Gode,Planned,FTK,Huawei,PH2,Small City,Rural,4312,36971,3,Somali,Korahe,Kebridehar town,Town,
+302037,11.71912,38.17188,Sores,Sores,Mekane Yesus,South Gondar,North West,MyHello Communication,Class E,South Gondar,Planned,FTK,Huawei,PH2,Additional Town,Rural,29162,244,2,Amhara,South Gondar,Farta,Road,MS 9.2.2 Foundation Started
+407180,8.40141,39.39143,Adama,Awash Melkasa,Adama Awash Melkasa,Adama,Central,Modern Tech Technologies PLC,Class F,Adama,Planned,FTK,Nokia,PH2,Large City,Urban,4103,532189,2,Oromia,East Shewa,Adama,Town,MS 9.5.1 RFI Notification Received
+502108,9.350891,42.811267,Jijiga,Jijiga,Jigjiga Qordhere 2,Jijiga,East 2,IHSAN COMMUNICATION,Class B,Jijiga,Planned,FTK,Huawei,PH2,Large City,Urban,49311,323033,1,Somali,Fafan,Jigjiga town,Town,MS 9.5.1 RFI Notification Received
+702040,7.69197,37.72358,Homecho,Homecho,Morsito,Hossana,South,Blue spark Technology,Class D,Hossana,Planned,FTK,Nokia,PH3,Additional Town,Sub Urban,61796,61796,4,SNNP,Hadiya,Gibe,Town,MS 9.1 CW Started
+509044,4.187181,42.050486,DOLO,Dolo Ado,Charati,Gode,East 2,Horn afrik communications and Trading PLC,Class D,Gode,Planned,FTK,Nokia,PH3,Small City,Rural,4937,17769,6,Somali,Liban,Dolo Ado,Town,MS 9.5.1 RFI Notification Received
+121019,8.19466,34.26765,,Etang,Gambela 2,Bedele,West,Blue spark Technology,Class E,Gambella,Planned,FTK,Nokia,PH2,,Sub Urban,,,,Gambela,Itang Special woreda,Itang,,MS 1.1 SAR Visit Completed
+418030,8.90499,35.2265,AlemTeferi,Horo Sabu/ Alem Teferi,Lalo Kile,Nekemte,West,Reserved to West Distributor,Class D,Nekemte,Planned,Colo,Huawei,PH3,,Rural,,,,,,,,MS 1.8 TSSR Final Validation by Safaricom
+506043,5.58462,44.2111,Kelafo,Kelafo,Kelafo,Gode,East 2,Mumin General Trading,Class D,Gode,Planned,FTK,Huawei,PH3,Additional town,Rural,18826,0,1,Somali,Shabelle,Kelafo,Town,MS 9.5.1 RFI Notification Received
+417075,7.366758,38.66674,,Arsi Negele,Arsi Negele,Shashemene,Central,Phoenix Telecom MAIN,Class D,Shashemene,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+720035,8.021799,38.335205,,Kibet,Butajira Stadium,Hossana,South,Blue spark Technology,Class D,Butajira,Planned,FTK,Nokia,PH2,,Sub Urban,,,,,,,,MS 1.4 SAR Final Technical Validation by Safaricom
+141118,8.886626,38.8402,Addis Ababa,Addis Ababa,Tulu Dimtu 2,Addis Ababa EA4,East Addis,Blue spark Technology,Class D,Addis Ababa EA4,Planned,FTK,Nokia,PH3,Large City,URBAN,  -    ,0,0,Addis Ababa,Akaki Kality,09,Town,MS 3.1 Structural Analysis / Soil Test Received
+143097,9.040009,38.689764,Addis Ababa,Addis Ababa,Addis Sefer,Addis Ababa WA2,West Addis,Tiyn Trading Company,Class B,Addis Ababa WA2,Planned,FTK,Nokia,PH3,Large City,URBAN,  -    ,0,0,Addis Ababa,Kolfe Keranyo,11,Town,MS 9.1 CW Started
+143098,8.980231,38.67384,Addis Ababa,Addis Ababa,Ajamba,Addis Ababa WA2,West Addis,Modern Tech Technologies PLC,Class B,Addis Ababa WA2,Planned,FTK,Nokia,PH3,Large City,URBAN,  -    ,0,0,Oromia,Finfine Special,Sebeta Hawas,Town,MS 2.3 SLA and Document Received From Vendor
+144189,8.984601,38.839642,Addis Ababa,Addis Ababa,ICT Park,Addis Ababa EA4,East Addis,Blue spark Technology,Class C,Addis Ababa EA4,Planned,FTK,Nokia,PH3,Large City,Sub Urban,  -    ,0,0,Addis Ababa,Bole,11,Town,MS 3.4 SD Validation by Safaricom
+147088,9.04465,38.84029,Addis Ababa,Addis Ababa,Kotebe Kara,Addis Ababa EA2,East Addis,Leapfrog Software Technology Africa PLC,Class B,Addis Ababa EA2,Planned,FTK,Nokia,,,Sub Urban,,,,,,,,
+704092,6.51089,38.8316,Bensa Daye,Bensa Daye,Daye,Hawassa,South,Modern Tech Technologies PLC,Class D,Hawassa,Planned,FTK,Nokia,PH0,,Rural,,,,,,,,MS 9.1 CW Started
+418017,8.68477,34.8832,RobGebeya(Hawa Welel),Rob Gebeya,Denbi Dolo 1,Nekemte,West,Reserved to West Distributor,Class F,Nekemte,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,MS 4.3.3 Construction Permit Received
+140133,9.081159,38.685647,Sebeta,Burayu,Burayu Keta 2,Addis Ababa WA1,West Addis,Tiyn Trading Company,Class C,Addis Ababa WA1,Planned,Colo,Nokia,PH3,Medium City,Sub Urban,14035,180000,1,Oromia,Finfine Special,Burayu,Town,MS 1.9.7.2 LLD Submitted to Colo Partners
+407163,8.56769,39.2665,Adama,Adama,Adama Bole,Adama,Central,Phoenix Telecom MAIN,Class C,Adama,Planned,Colo,Nokia,PH3,Large City,Urban,,532189,,Oromia,East Shewa,Adama town,,MS 1.9.7.2 LLD Submitted to Colo Partners
+418024,8.54584,34.7966,DembiDolo,"Dembi Dolo
+",Denbi Dolo 1,Nekemte,West,Reserved to West Distributor,Class C,Nekemte,Planned,Colo,ZTE,PH3,,Sub Urban,,,,,,,,MS 1.8 TSSR Final Validation by Safaricom
+418009,8.5367,34.7999,DembiDolo,"Dembi Dolo
+",Denbi Dolo 1,Nekemte,West,Reserved to West Distributor,Class C,Nekemte,Planned,Colo,ZTE,PH3,,Sub Urban,,,,,,,,MS 1.8 TSSR Final Validation by Safaricom
+418012,8.5408128,34.8072708,DembiDolo,"Dembi Dolo
+",Denbi Dolo 1,Nekemte,West,Reserved to West Distributor,Class C,Nekemte,Planned,FTK,ZTE,PH3,,Sub Urban,,,,,,,,MS 9.6 CW Completed
+413002,8.59711,37.7579,,Gindo,Gindo,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,FTK,Huawei,PH1,,,,,,,,,,
+418049,8.623641,34.92812,Mojo,Mojo - West,Denbi Dolo 1,Nekemte,West,Reserved to West Distributor,Class D,Nekemte,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,MS 4.3.3 Construction Permit Received
+140168,9.037978,38.653601,Burayu,Burayu,Burayu Ashewameda 2,Addis Ababa WA1,West Addis,Tiyn Trading Company,Class D,Addis Ababa WA1,Planned,FTK,Nokia,PH3,Medium City,Sub Urban,  -    ,0,0,Oromia,Finfine Special,Burayu,Town,MS 2.7 Site Lease Contract 1st Payment Completed by Safaricom
+141102,8.913046,38.822962,Addis Ababa,Addis Ababa,Tulu Dimtu 1,Addis Ababa EA4,East Addis,Blue spark Technology,Class C,Addis Ababa EA4,Planned,FTK,Nokia,PH3,Large City,URBAN,  -    ,0,0,Addis Ababa,Akaki Kality,11,Town,MS 3.1 Structural Analysis / Soil Test Received
+404018,8.002316,36.488691,Toba Town,Toba,Toba,Jimma,West,Blue spark Technology,Class D,Jimma,Planned,FTK,Nokia,PH2,Additional Town,Rural,27733,27733,1,Oromia,Jimma,Gumay,,MS 11.3 TI Completed
+403006,8.34373,35.81834,A5-6,Yayo,Metu Sor,Bedele,West,Blue spark Technology,Class D,Bedele,Planned,FTK,Nokia,PH2,A Road,Rural,35131,35131,1,Oromia,Ilu Aba Bora,Yayu,,MS 13.4 Site Integration Completed
+401011,9.03957,35.6232,Genji,Gengi,Genji,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH3,Additional Town,Sub Urban,  -    ,0,0,Oromia,West Wellega,Gaji,,MS 9.2.2 Foundation Started
+401094,9.01248,35.3721,B43-1,Lalo Kile to Ayira,Ayira,Nekemte,West,Blue spark Technology,Class F,Nekemte,Planned,FTK,Huawei,PH3,,Sub Urban,,,,,,,,MS 4.3.3 Construction Permit Received
+101043,13.989219,37.836491,Endamariam wehabit,Endamariam Wehabit,Endabaguna,Shire,North,Passion Technologies One Member PLC,Class E,Shire,Planned,FTK,Huawei,PH1,Additional Town,Rural,  -    ,0,0,Tigray,North Western,Asgede,,MS 4.3.3 Construction Permit Received
+704039,6.50082,38.39527,Teferi Kela,Teferi Kela,Hagere Selam Sidama,Hawassa,South,Modern Tech Technologies PLC,Class D,Hawassa,Planned,Colo,Nokia,PH_SA,Additional Town,Rural,,48180,,Sidama,Sidama,Dara Otilicho,,
+414135,5.490225,38.612051,Soda,Melka Soda,Fichawa,Hawassa,South,Girma Gifawossen Trading,Class E,Bule Hora,Planned,Colo,Nokia,PH_SA,Additional Town,Rural,,16667,,Oromia,West Guji,Melka Soda,,
+603013,10.556915,34.29722,C40,Kumruk,Asosa 1,Nekemte,West,Blue spark Technology,Class F,Asosa,Planned,FTK,Huawei,PH1,,Sub Urban,,,,,,,,
+411033,7.963019,39.13415,,Asela,Asela Derartu,Asela,Central,Modern Tech Technologies PLC,Class C,Asela,Planned,FTK,Nokia,PH1,,Sub Urban,,,,,,,,
+103015,13.6411,39.7728,UNAD-19,Kelisha Imini,Atsbi Endasilasie,Mekele North,North,Passion Technologies One Member PLC,Class F,Mekele North,Planned,FTK,Huawei,PH3,Highways and Major roads,Deep Rural,4653,15739,3,Tigray,Eastern,Agulae,Road,MS 9.2.3 Foundation Completed
+102133,14.279868,39.14517,A2-12a,Inticho ,Enticho,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH3,Highways and Major roads,Sub Urban,6924,5425,1,Tigray,Central,Enticho town,Town,MS 1.3 SAR Received from Vendor
+101036,14.387695,37.76888,Shiraro,Sheraro,Shiraro,Shire,North,Passion Technologies One Member PLC,Class D,Shire,Planned,FTK,Huawei,PH3,Small City,Sub Urban,12205,22796,1,Tigray,North Western,Sheraro town,Town,MS 9.6 CW Completed
+414131,5.88683,38.123,Kersa,Tore,Fiseha Genet,Hawassa,South,Girma Gifawossen Trading,Class F,Bule Hora,Planned,FTK,Nokia,PH3,Additional Town,Rural,6857,6857,3,Oromia,West Guji,Gelana (West Guji),Road,MS 9.6 CW Completed
+414043,5.3288,39.5869,Negele Borena,Negele Borena,Negele,Hawassa,South,Modern Tech Technologies PLC,Class C,Bule Hora,Planned,FTK,Nokia,PH3,Small City,Urban,21687,100453,1,Oromia,Guji,Negele town,Town,MS 11.3 TI Completed
+414112,5.34061,39.5671,Negele Borena,Negele Borena,Negele,Hawassa,South,Modern Tech Technologies PLC,Class C,Bule Hora,Planned,FTK,Nokia,PH3,Small City,Urban,15882,100453,1,Oromia,Guji,Liben,Town,MS 11.3 TI Completed
+413016,8.46305,38.252703,Harbu Chulule,Arbu Chulule,Arbu Chule,Ambo,West,Blue spark Technology,Class D,Ambo,Planned,Colo,Huawei,PH3,Additional Town,Sub Urban,21159,5453,2,Oromia,South West Shewa,Seden Sodo,Town,MS 1.9.7.2 LLD Submitted to Colo Partners
+143090,8.988182,38.661967,Addis Ababa,Addis Ababa,Alemgena Welete 2,Addis Ababa WA1,West Addis,Fibath trading,Class C,Addis Ababa WA1,Planned,FTK,Nokia,PH3,Large City,Urban,3164,5746361,1,Oromia,Finfine Special,Sebeta Hawas,Town,
+140161,9.040782,38.664969,Burayu,Burayu,Burayu Ashewameda 1,Addis Ababa WA1,West Addis,Tiyn Trading Company,Class C,Addis Ababa WA1,Planned,FTK,Nokia,PH3,Medium City,Sub Urban,  -    ,0,0,Oromia,Finfine Special,Burayu,Town,MS 9.1 CW Started
+141105,8.905302,38.825921,Addis Ababa,Addis Ababa,Tulu Dimtu 1,Addis Ababa EA4,East Addis,Blue spark Technology,Class C,Addis Ababa EA4,Planned,FTK,Nokia,PH3,Large City,URBAN,  -    ,0,0,Addis Ababa,Akaki Kality,09,Town,MS 1.5 TSS Visit Completed
+141108,8.89484,38.825016,Addis Ababa,Addis Ababa,Tulu Dimtu 1,Addis Ababa EA4,East Addis,Blue spark Technology,Class C,Addis Ababa EA4,Planned,FTK,Nokia,PH3,Large City,URBAN,  -    ,0,0,Addis Ababa,Akaki Kality,09,Town,MS 1.8 TSSR Final Validation by Safaricom
+402011,9.56592,36.6318,,Gutin,Gutin,Nekemte,West,Blue spark Technology,Class D,Nekemte,Planned,FTK,Huawei,PH2,,Sub Urban,,,,Oromia,East Wellega,Gida Ayana,,MS 4.3.3 Construction Permit Received
+411110,7.1292,40.7136,,Ginir,Ginir,Bale,Central,Modern Tech Technologies PLC,Class C,Bale,Planned,FTK,,PH2,,,,,,,,,,
