@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Ethiopia GIS Dashboard</title>
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol/ol.css">
+
+<style>
+
+body{
+    margin:0;
+    font-family:Arial,sans-serif;
+}
+
+.navbar{
+    background:#008000;
+    color:white;
+    padding:15px;
+    text-align:center;
+    font-size:24px;
+    font-weight:bold;
+}
+
+.sidebar{
+    width:200px; /* reduced from 250px */
+    height:calc(100vh - 58px);
+    float:left;
+    background:#f2f2f2;
+    padding:10px;
+    box-sizing:border-box;
+    font-size:12px;
+}
+
+.sidebar input{
+    width:100%;
+    padding:6px;
+    margin-bottom:6px;
+    font-size:12px;
+}
+
+.sidebar button{
+    width:100%;
+    padding:6px;
+    margin-bottom:6px;
+    border:none;
+    background:#008000;
+    color:white;
+    cursor:pointer;
+    border-radius:4px;
+    font-size:12px;
+}
+
+.sidebar button:hover{
+    background:#006400;
+}
+
+#map{
+    margin-left:200px; /* must match sidebar width */
+    height:calc(100vh - 58px);
+}
+
+#popup{
+    background:white;
+    padding:6px;
+    border-radius:4px;
+    border:1px solid #ccc;
+    min-width:150px;
+    font-size:11px;
+}
+
+#legend{
+    position:absolute;
+    bottom:5px;
+    right:5px;
+    background:white;
+    padding:5px;
+    border:1px solid #ccc;
+    border-radius:3px;
+    z-index:1000;
+    font-size:10px;
+    line-height:1.2;
+}
+
+#legend h4{
+    margin:0 0 4px 0;
+    font-size:11px;
+}
+
+#legend div{
+    margin:1px 0;
+}
+
+#legend span{
+    display:inline-block;
+    width:8px;
+    height:8px;
+    margin-right:3px;
+}
+
+.red{background:red;}
+.green{background:green;}
+.orange{background:orange;}
+.blue{background:blue;}
+.yellow{background:yellow;}
+.purple{background:purple;}
+.pink{background:pink;}
+.brown{background:brown;}
+.gray{background:gray;}
+.cyan{background:cyan;}
+.black{background:black;}
+
+</style>
+
+</head>
+<body>
+
+<div class="navbar">
+    Ethiopia GIS Dashboard
+</div>
+
+<div class="sidebar">
+
+    <h3>GIS Info.</h3>
+
+    <input
+        type="text"
+        id="searchInput"
+        placeholder="Search Site Name">
+
+    <button onclick="loadSites()">
+        Load Sites
+    </button>
+
+    <button onclick="loadClusters()">
+        Load Clusters
+    </button>
+
+    <button onclick="clearAll()">
+        Clear Layers
+    </button>
+
+    <button onclick="zoomEthiopia()">
+        Zoom Ethiopia
+    </button>
+
+    <hr>
+
+    <p>
+        Total Sites:
+        <span id="siteCount">0</span>
+    </p>
+
+    <p> 
+        Total Clusters:
+        <span id="clusterCount">0</span>
+    </p>
+
+
+</div>
+
+<div id="map"></div>
+
+<div id="popup"></div>
+
+<div id="legend">
+
+<h4>Regions</h4>
+
+<div><span class="red"></span>Afar</div>
+<div><span class="green"></span>Central</div>
+<div><span class="orange"></span>East 1 </div>
+<div><span class="blue"></span>East 2</div>
+<div><span class="yellow"></span>East Addis</div>
+<div><span class="purple"></span>West Addis</div>
+<div><span class="pink"></span>North</div>
+<div><span class="brown"></span>North East</div>
+<div><span class="gray"></span> North West</div>
+<div><span class="cyan"></span>South</div>
+<div><span class="black"></span>West</div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/ol/dist/ol.js"></script>
+
+<script>
+
+const map = new ol.Map({
+
+    target:'map',
+
+    layers:[
+        new ol.layer.Tile({
+            source:new ol.source.OSM()
+        })
+    ],
+
+    view:new ol.View({
+
+        center:ol.proj.fromLonLat(
+            [40.4897,9.145]
+        ),
+
+        zoom:6
+
+    })
+
+});
+
+const popupContainer =
+    document.getElementById("popup");
+
+const popup =
+    new ol.Overlay({
+
+        element:popupContainer,
+
+        positioning:'bottom-center',
+
+        offset:[0,-10]
+
+    });
+
+map.addOverlay(popup);
+
+const siteSource =
+    new ol.source.Vector();
+
+const siteLayer =
+    new ol.layer.Vector({
+
+        source:siteSource,
+
+        style:new ol.style.Style({
+
+            image:new ol.style.Circle({
+
+                radius:4,
+
+                fill:new ol.style.Fill({
+
+                    color:'green'
+
+                }),
+
+                stroke:new ol.style.Stroke({
+
+                    color:'white',
+                    width:1
+
+                })
+
+            })
+
+        })
+
+    });
+   
+map.addLayer(siteLayer);
+
+const clusterSource =
+    new ol.source.Vector();
+
+const clusterLayer =
+    new ol.layer.Vector({
+
+        source:clusterSource,
+
+        style:function(feature){
+
+            const region =
+                feature.get(
+                    "NSM_Division"
+                );
+
+            let fillColor =
+                "rgba(128,128,128,0.3)";
+
+            switch(region){
+
+                 case "Afar":
+                 fillColor = "rgba(255,0,0,0.3)";
+                 break;
+
+                case "Central":
+                 fillColor = "rgba(0,128,0,0.3)";
+                break;
+
+                case "East 1":
+                 fillColor = "rgba(255,165,0,0.3)";
+                break;
+
+                case "East 2":
+                 fillColor = "rgba(0,0,255,0.3)";
+                break;
+
+                case "East Addis":
+                 fillColor = "rgba(255,255,0,0.3)";
+                break;
+
+                case "West Addis":
+                 fillColor = "rgba(128,0,128,0.3)";
+                break;
+
+                case "North":
+                 fillColor = "rgba(255,192,203,0.3)";
+                break;
+
+                case "North East":
+                 fillColor = "rgba(165,42,42,0.3)";
+                break;
+
+                case "North West":
+                 fillColor = "rgba(128,128,128,0.3)";
+                break;
+
+                case "South":
+                 fillColor = "rgba(0,255,255,0.3)";
+                break;
+
+                case "West":
+                 fillColor = "rgba(0,0,0,0.3)";
+                break;
+            }
+
+            return new ol.style.Style({
+
+                stroke:
+                new ol.style.Stroke({
+
+                    color:"#333",
+                    width:1
+
+                }),
+
+                fill:
+                new ol.style.Fill({
+
+                    color:fillColor
+
+                })
+
+            });
+
+        }
+
+    });
+
+map.addLayer(clusterLayer);
+
+function zoomEthiopia(){
+
+    map.getView().setCenter(
+        ol.proj.fromLonLat(
+            [40.4897,9.145]
+        )
+    );
+
+    map.getView().setZoom(6);
+
+}
+
+function clearAll(){
+
+    siteSource.clear();
+    clusterSource.clear();
+
+    document.getElementById(
+        "siteCount"
+    ).innerText = 0;
+    document.getElementById(
+        "clusterCount"
+    ).innerText = 0;
+
+}
+
+function loadSites(){
+
+    siteSource.clear();
+
+    fetch("Planned Sites.csv")
+
+    .then(response =>
+        response.text()
+    )
+
+    .then(data=>{
+
+        const rows =
+            data.trim().split("\n");
+
+        const headers =
+            rows[0].split(",");
+
+        let count = 0;
+
+        const searchText =
+            document
+            .getElementById(
+                "searchInput"
+            )
+            .value
+            .toLowerCase();
+
+        rows.slice(1).forEach(row=>{
+
+            const columns =
+                row.split(",");
+
+            const siteName =
+                columns[0];
+
+            if(
+                searchText &&
+                !siteName
+                .toLowerCase()
+                .includes(searchText)
+            ){
+                return;
+            }
+
+            const lat =
+                parseFloat(columns[1]);
+
+            const lon =
+                parseFloat(columns[2]);
+
+            if(
+                isNaN(lat) ||
+                isNaN(lon)
+            ) return;
+
+            let popupText = "";
+
+            headers.forEach(
+            (header,index)=>{
+
+                popupText +=
+                "<b>" +
+                header +
+                ":</b> " +
+                columns[index] +
+                "<br>";
+
+            });
+
+            const feature =
+                new ol.Feature({
+
+                    geometry:
+                    new ol.geom.Point(
+
+                        ol.proj.fromLonLat(
+                            [lon,lat]
+                        )
+
+                    )
+
+                });
+
+            feature.set(
+                "popup",
+                popupText
+            );
+
+            siteSource.addFeature(
+                feature
+            );
+
+            count++;
+
+        });
+
+        document
+        .getElementById(
+            "siteCount"
+        )
+        .innerText = count;
+
+    });
+
+}
+
+function loadClusters(){
+
+    clusterSource.clear();
+
+    fetch("Cluster 4 june.geojson")
+
+    .then(response =>
+        response.json()
+    )
+
+    .then(data=>{
+
+        const features =
+
+        new ol.format.GeoJSON()
+
+        .readFeatures(data,{
+
+            featureProjection:
+            'EPSG:3857'
+
+        });
+
+        clusterSource.addFeatures(
+            features
+        );
+
+        document.getElementById(
+            "clusterCount"
+        ).innerText = features.length;
+
+        map.getView().fit(
+
+            clusterSource
+            .getExtent(),
+
+            {
+
+                padding:
+                [50,50,50,50]
+
+            }
+
+        );
+
+    });
+
+}
+
+map.on("click",function(evt){
+
+    const feature =
+
+    map.forEachFeatureAtPixel(
+
+        evt.pixel,
+
+        function(feature){
+
+            return feature;
+
+        }
+
+    );
+
+    if(feature){
+
+        let popupText =
+            feature.get("popup");
+
+        if(!popupText){
+
+            popupText =
+
+            "<h3>Cluster:</h3>" +
+            (feature.get("Cluster") || "Cluster") +
+            "<br>" +
+
+            "<b>Region:</b> " +
+            (feature.get("RSM_Base_City") || "") +
+            "<br>" +
+
+            "<b>Division:</b> " +
+            (feature.get("NSM_Division") || "") +
+            "<br>" +
+
+            "<b>Distributor:</b> " +
+            (feature.get("Distributor") || "") +
+            "<br>" +
+
+            "<b>Cluster Status:</b> " +
+            (feature.get("Cluster_Status") || "") +
+            "<br>" +
+
+            //"<b>Population:</b> " +
+            //(feature.get("Population") || "") +
+            //"<br>" +
+
+           // "<b>Existing Sites:</b> " +
+            //(feature.get("Existing_Sites") || "") +
+            //"<br>" +
+
+            "<b>Planned Sites:</b> " +
+            (feature.get("Planned_Sites") || "");
+
+        }
+
+        popupContainer.innerHTML =
+            popupText;
+
+        popup.setPosition(
+            evt.coordinate
+        );
+
+    }
+
+});
+
+</script>
+
+</body>
+</html>
